@@ -7,7 +7,7 @@ This repository was inaugurated to reveal all of the private information that is
 
 - Visual Studio 2015: In order to run the solution, you need to have this software. Link: https://www.visualstudio.com/
 
-Supported platforms :
+## Supported platforms :
 - Windows 10 Professional
 
 ## References
