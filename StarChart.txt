@@ -72,6 +72,78 @@
   ArchwingRequired: No
   IsSharkwing: No
 
+  Name: Neruda
+  Id: SolNode221
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Eminescu
+  Id: SolNode222
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Boethius
+  Id: SolNode223
+  Faction: FC_INFESTATION
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Caduceus
+  Id: SolNode901
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Odin
+  Id: SolNode224
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Suisei
+  Id: SolNode225
+  Faction: FC_GRINEER
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Pantheon
+  Id: SolNode226
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Verdi
+  Id: SolNode227
+  Faction: FC_GRINEER
+  MissionType: MT_COUNTER_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO VENUS
+  Id: MercuryToVenusShortcut
+  Faction: FC_OROKIN
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
 [Venus]
 
   Name: V Prime
@@ -154,6 +226,94 @@
   ArchwingRequired: No
   IsSharkwing: No
 
+  Name: Fossa
+  Id: SolNode104
+  Faction: FC_CORPUS
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Conclave
+  Id: PvpNode1
+  Faction: FC_OROKIN
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Unda
+  Id: SolNode66
+  Faction: FC_CORPUS
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Malva
+  Id: ClanNode1
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Venera
+  Id: SolNode107
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Tessera
+  Id: SolNode22
+  Faction: FC_CORPUS
+  MissionType: MT_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kiliken
+  Id: SolNode101
+  Faction: FC_CORPUS
+  MissionType: MT_EXCAVATE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Romula
+  Id: ClanNode0
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Vesper Relay
+  Id: VenusHUB
+  Faction: FC_OROKIN
+  MissionType: MT_PVP
+  NodeType: NT_HUB
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Montes
+  Id: SolNode902
+  Faction: FC_CORPUS
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Tethra
+  Id: EventNode1
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
 [Earth]
 
   Name: Strata Relay
@@ -228,6 +388,142 @@
   ArchwingRequired: No
   IsSharkwing: No
 
+  Name: Mariana
+  Id: SolNode89
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gaia
+  Id: SolNode85
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Eurasia
+  Id: SolNode59
+  Faction: FC_GRINEER
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cervantes
+  Id: SolNode75
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: VENUS JUNCTION
+  Id: EarthToVenusJunction
+  Faction: FC_OROKIN
+  MissionType: MT_JUNCTION
+  NodeType: NT_JUNCTION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gate Crash
+  Id: EventNode2
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gate Crash
+  Id: EventNode24
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gate Crash
+  Id: EventNode25
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Oro
+  Id: SolNode24
+  Faction: FC_GRINEER
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Coba
+  Id: ClanNode2
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO VENUS
+  Id: EarthToVenusShortcut
+  Faction: FC_GRINEER
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Erpo
+  Id: SolNode903
+  Faction: FC_GRINEER
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Tikal
+  Id: ClanNode3
+  Faction: FC_INFESTATION
+  MissionType: MT_EXCAVATE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO LUA
+  Id: EarthToMoonShortcut
+  Faction: FC_OROKIN
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Maroo's Bazaar
+  Id: TradeHUB1
+  Faction: FC_OROKIN
+  MissionType: MT_PVP
+  NodeType: NT_HUB
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: MARS JUNCTION
+  Id: EarthToMarsJunction
+  Faction: FC_OROKIN
+  MissionType: MT_JUNCTION
+  NodeType: NT_JUNCTION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO MARS
+  Id: EarthToMarsShortcut
+  Faction: FC_GRINEER
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
 [Mars]
 
   Name: Arcadia
@@ -291,6 +587,166 @@
   Faction: FC_GRINEER
   MissionType: MT_GENERIC
   NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Alator
+  Id: SolNode106
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Arval
+  Id: SolNode41
+  Faction: FC_GRINEER
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ultor
+  Id: SolNode14
+  Faction: FC_CORPUS
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Augustus
+  Id: SolNode16
+  Faction: FC_GRINEER
+  MissionType: MT_EXCAVATE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ara
+  Id: SolNode45
+  Faction: FC_GRINEER
+  MissionType: MT_CAPTURE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Silvanus
+  Id: SolNode54
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Martialis
+  Id: SolNode36
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kadesh
+  Id: ClanNode8
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: 
+  Id: EventNode18
+  Faction: FC_CORPUS
+  MissionType: MT_DEFENSE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: War
+  Id: SolNode99
+  Faction: FC_GRINEER
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: PHOBOS JUNCTION
+  Id: MarsToPhobosJunction
+  Faction: FC_OROKIN
+  MissionType: MT_JUNCTION
+  NodeType: NT_JUNCTION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Elatha
+  Id: EventNode3
+  Faction: FC_CORPUS
+  MissionType: MT_DEFENSE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gradivus
+  Id: SolNode65
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO EARTH
+  Id: MarsToEarthShortcut
+  Faction: FC_OROKIN
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Wahiba
+  Id: ClanNode9
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Quirinus
+  Id: SolNode115
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Tharsis
+  Id: SolNode11
+  Faction: FC_CORPUS
+  MissionType: MT_RETRIEVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO PHOBOS
+  Id: MarsToPhobosShortcut
+  Faction: FC_GRINEER
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Syrtis
+  Id: SolNode904
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: 
+  Id: EventNode19
+  Faction: FC_CORPUS
+  MissionType: MT_DEFENSE
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -376,6 +832,102 @@
   ArchwingRequired: No
   IsSharkwing: No
 
+  Name: Conclave
+  Id: PvpNode8
+  Faction: FC_CORPUS
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Callisto
+  Id: SolNode25
+  Faction: FC_CORPUS
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Carpo
+  Id: SolNode121
+  Faction: FC_CORPUS
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Themisto
+  Id: SolNode53
+  Faction: FC_CORPUS
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: SATURN JUNCTION
+  Id: JupiterToSaturnJunction
+  Faction: FC_OROKIN
+  MissionType: MT_JUNCTION
+  NodeType: NT_JUNCTION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Carme
+  Id: SolNode74
+  Faction: FC_CORPUS
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sinai
+  Id: ClanNode4
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Bres
+  Id: EventNode4
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ananke
+  Id: SolNode73
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO SATURN
+  Id: JupiterToSaturnShortcut
+  Faction: FC_GRINEER
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Galilea
+  Id: SolNode905
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Cameria
+  Id: ClanNode5
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
 [Saturn]
 
   Name: Hyperion
@@ -423,6 +975,246 @@
   Faction: FC_GRINEER
   MissionType: MT_INTEL
   NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Mimas
+  Id: SolNode44
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Iapetus
+  Id: SolNode91
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Janus
+  Id: SolNode47
+  Faction: FC_GRINEER
+  MissionType: MT_SURVIVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Keeler
+  Id: SolNode93
+  Faction: FC_GRINEER
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Tethys
+  Id: SolNode32
+  Faction: FC_GRINEER
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Phoebe
+  Id: SolNode80
+  Faction: FC_GRINEER
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Rhea
+  Id: SolNode18
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kronia Relay
+  Id: SaturnHUB
+  Faction: FC_OROKIN
+  MissionType: MT_PVP
+  NodeType: NT_HUB
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Pallene
+  Id: SolNode37
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Telesto
+  Id: SolNode20
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: URANUS JUNCTION
+  Id: SaturnToUranusJunction
+  Faction: FC_OROKIN
+  MissionType: MT_JUNCTION
+  NodeType: NT_JUNCTION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Aegaeon
+  Id: SolNode86
+  Faction: FC_GRINEER
+  MissionType: MT_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Methone
+  Id: SolNode55
+  Faction: FC_GRINEER
+  MissionType: MT_COUNTER_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cassini
+  Id: SolNode70
+  Faction: FC_GRINEER
+  MissionType: MT_CAPTURE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO JUPITER
+  Id: SaturnToJupiterShortcut
+  Faction: FC_OROKIN
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Anthe
+  Id: SolNode31
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Numa
+  Id: SolNode50
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO URANUS
+  Id: SaturnToUranusShortcut
+  Faction: FC_GRINEER
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Birog
+  Id: EventNode5
+  Faction: FC_GRINEER
+  MissionType: MT_DEFENSE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Calypso
+  Id: SolNode82
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Pandora
+  Id: SolNode906
+  Faction: FC_GRINEER
+  MissionType: MT_PURSUIT
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Cephalon Capture
+  Id: PvpNode0
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Team Annihilation
+  Id: PvpNode9
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Annihilation
+  Id: PvpNode10
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: LUNARO ARENA
+  Id: PvpNode11
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Piscinas
+  Id: ClanNode13
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Caracol
+  Id: ClanNode12
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: (VARIANT) Cephalon Capture
+  Id: PvpNode12
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: (VARIANT) Team Annihilation
+  Id: PvpNode13
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: (VARIANT) Annihilation
+  Id: PvpNode14
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -497,6 +1289,206 @@
   Faction: FC_GRINEER
   MissionType: MT_ASSASSINATION
   NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Portia
+  Id: SolNode52
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Cressida
+  Id: SolNode83
+  Faction: FC_GRINEER
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Juliet
+  Id: SolNode111
+  Faction: FC_GRINEER
+  MissionType: MT_COUNTER_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Desdemona
+  Id: SolNode98
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Cupid
+  Id: SolNode77
+  Faction: FC_GRINEER
+  MissionType: MT_SURVIVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Rosalind
+  Id: SolNode9
+  Faction: FC_GRINEER
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Bianca
+  Id: SolNode13
+  Faction: FC_GRINEER
+  MissionType: MT_DEFENSE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sealab
+  Id: EventNode20
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sealab
+  Id: EventNode22
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Prospero
+  Id: SolNode40
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Perdita
+  Id: SolNode5
+  Faction: FC_GRINEER
+  MissionType: MT_COUNTER_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Mab
+  Id: SolNode116
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Setebos
+  Id: SolNode112
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Caliban
+  Id: SolNode60
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Puck
+  Id: SolNode114
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Sealab
+  Id: EventNode21
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sealab
+  Id: EventNode23
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ur
+  Id: ClanNode16
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sycorax
+  Id: SolNode34
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: Stephano
+  Id: SolNode122
+  Faction: FC_GRINEER
+  MissionType: MT_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Trinculo
+  Id: SolNode124
+  Faction: FC_GRINEER
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: Yes
+
+  Name: TO SATURN
+  Id: UranusToSaturnShortcut
+  Faction: FC_OROKIN
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Caelus
+  Id: SolNode907
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Assur
+  Id: ClanNode17
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sealab
+  Id: EventNode6
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -587,6 +1579,126 @@
   Faction: FC_GRINEER
   MissionType: MT_GENERIC
   NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sao
+  Id: SolNode57
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Halimede
+  Id: SolNode120
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Neso
+  Id: SolNode62
+  Faction: FC_CORPUS
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Salacia
+  Id: SolNode908
+  Faction: FC_CORPUS
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Psamathe
+  Id: SolNode127
+  Faction: FC_CORPUS
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Laomedeia
+  Id: SolNode118
+  Faction: FC_CORPUS
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Nereid
+  Id: SolNode84
+  Faction: FC_CORPUS
+  MissionType: MT_RETRIEVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Yursa
+  Id: ClanNode20
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kelashin
+  Id: ClanNode21
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Buarainech
+  Id: EventNode7
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cephalon Capture
+  Id: PvpNode3
+  Faction: FC_CORPUS
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: THE INDEX
+  Id: SolNode761
+  Faction: FC_CORPUS
+  MissionType: MT_ARENA
+  NodeType: 
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: THE INDEX: HIGH RISK
+  Id: SolNode762
+  Faction: FC_CORPUS
+  MissionType: MT_ARENA
+  NodeType: 
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: THE INDEX: ENDURANCE
+  Id: SolNode763
+  Faction: FC_CORPUS
+  MissionType: MT_ARENA
+  NodeType: 
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: THE INDEX
+  Id: SolNode764
+  Faction: FC_CORPUS
+  MissionType: MT_ARENA
+  NodeType: NT_MISSION
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -704,6 +1816,86 @@
   ArchwingRequired: No
   IsSharkwing: No
 
+  Name: Nix
+  Id: SolNode8
+  Faction: FC_CORPUS
+  MissionType: MT_COUNTER_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cypress
+  Id: SolNode56
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cerberus
+  Id: SolNode43
+  Faction: FC_CORPUS
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Palus
+  Id: SolNode81
+  Faction: FC_CORPUS
+  MissionType: MT_SURVIVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sechura
+  Id: ClanNode24
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Oceanum
+  Id: SolNode102
+  Faction: FC_CORPUS
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Conclave
+  Id: PvpNode6
+  Faction: FC_CORPUS
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Hieracon
+  Id: ClanNode25
+  Faction: FC_INFESTATION
+  MissionType: MT_EXCAVATE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Orcus Relay
+  Id: PlutoHUB
+  Faction: FC_OROKIN
+  MissionType: MT_PVP
+  NodeType: NT_HUB
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Corb
+  Id: EventNode8
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
 [Ceres]
 
   Name: Olla
@@ -764,6 +1956,150 @@
 
   Name: TO JUPITER
   Id: CeresToJupiterShortcut
+  Faction: FC_GRINEER
+  MissionType: MT_GENERIC
+  NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Lex
+  Id: SolNode139
+  Faction: FC_GRINEER
+  MissionType: MT_CAPTURE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ker
+  Id: SolNode141
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Nuovo
+  Id: SolNode137
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Hapke
+  Id: SolNode142
+  Faction: FC_GRINEER
+  MissionType: MT_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kiste
+  Id: SolNode140
+  Faction: FC_GRINEER
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ludi
+  Id: SolNode138
+  Faction: FC_GRINEER
+  MissionType: MT_RETRIEVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gefion
+  Id: SolNode143
+  Faction: FC_GRINEER
+  MissionType: MT_RETRIEVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Exta
+  Id: SolNode144
+  Faction: FC_GRINEER
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Casta
+  Id: SolNode149
+  Faction: FC_GRINEER
+  MissionType: MT_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cerium
+  Id: SolNode148
+  Faction: FC_GRINEER
+  MissionType: MT_RETRIEVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cinxia
+  Id: SolNode147
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Albedo
+  Id: SolNode150
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Egeria
+  Id: SolNode145
+  Faction: FC_GRINEER
+  MissionType: MT_DEFENSE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Draco
+  Id: SolNode146
+  Faction: FC_GRINEER
+  MissionType: MT_SURVIVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gate Crash
+  Id: EventNode9
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gabii
+  Id: ClanNode23
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Seimeni
+  Id: ClanNode22
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: TO MARS
+  Id: CeresToMarsShortcut
   Faction: FC_GRINEER
   MissionType: MT_GENERIC
   NodeType: NT_SHORTCUT
@@ -868,6 +2204,190 @@
   ArchwingRequired: No
   IsSharkwing: No
 
+  Name: Lepis
+  Id: SolNode159
+  Faction: FC_INFESTATION
+  MissionType: MT_HIVE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kala-azar
+  Id: SolNode164
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Hymeno
+  Id: SolNode161
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Isos
+  Id: SolNode162
+  Faction: FC_INFESTATION
+  MissionType: MT_CAPTURE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gnathos
+  Id: SolNode158
+  Faction: FC_CORPUS
+  MissionType: MT_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Histo
+  Id: SolNode160
+  Faction: FC_INFESTATION
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sporid
+  Id: SolNode165
+  Faction: FC_INFESTATION
+  MissionType: MT_TERRITORY
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ixodes
+  Id: SolNode163
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Saxis
+  Id: SolNode171
+  Faction: FC_INFESTATION
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Phalan
+  Id: SolNode168
+  Faction: FC_INFESTATION
+  MissionType: MT_TERRITORY
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Oestrus
+  Id: SolNode167
+  Faction: FC_INFESTATION
+  MissionType: MT_PURIFY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ranova
+  Id: SolNode170
+  Faction: FC_INFESTATION
+  MissionType: MT_RESCUE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Psoro
+  Id: SolNode169
+  Faction: FC_INFESTATION
+  MissionType: MT_HIVE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Nimus
+  Id: SolNode166
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Lugh
+  Id: EventNode10
+  Faction: FC_CORPUS
+  MissionType: MT_COUNTER_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Solium
+  Id: SolNode173
+  Faction: FC_INFESTATION
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Akkad
+  Id: ClanNode18
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sparga
+  Id: SolNode174
+  Faction: FC_INFESTATION
+  MissionType: MT_RESCUE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Xini
+  Id: SolNode172
+  Faction: FC_INFESTATION
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Viver
+  Id: SolNode176
+  Faction: FC_INFESTATION
+  MissionType: MT_HIVE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Zabala
+  Id: ClanNode19
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Naeglar
+  Id: SolNode175
+  Faction: FC_INFESTATION
+  MissionType: MT_HIVE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Conclave
+  Id: PvpNode4
+  Faction: FC_CORPUS
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
 [Sedna]
 
   Name: Kappa
@@ -947,6 +2467,182 @@
   Faction: FC_GRINEER
   MissionType: MT_GENERIC
   NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Nakki
+  Id: SolNode190
+  Faction: FC_GRINEER
+  MissionType: MT_ARENA
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Berehynia
+  Id: SolNode185
+  Faction: FC_GRINEER
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Tikoloshe
+  Id: SolNode192
+  Faction: FC_GRINEER
+  MissionType: MT_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Selkie
+  Id: SolNode187
+  Faction: FC_GRINEER
+  MissionType: MT_SURVIVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Marid
+  Id: SolNode191
+  Faction: FC_GRINEER
+  MissionType: MT_RETRIEVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Phithale
+  Id: SolNode186
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kelpie
+  Id: SolNode188
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Naga
+  Id: SolNode189
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Yam
+  Id: SolNode199
+  Faction: FC_GRINEER
+  MissionType: MT_ARENA
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ponaturi
+  Id: SolNode194
+  Faction: FC_GRINEER
+  MissionType: MT_COUNTER_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Merrow
+  Id: SolNode193
+  Faction: FC_GRINEER
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Charybdis
+  Id: SolNode196
+  Faction: FC_GRINEER
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Graeae
+  Id: SolNode197
+  Faction: FC_GRINEER
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Hydron
+  Id: SolNode195
+  Faction: FC_GRINEER
+  MissionType: MT_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Scylla
+  Id: SolNode198
+  Faction: FC_GRINEER
+  MissionType: MT_SURVIVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Nemed
+  Id: EventNode11
+  Faction: FC_GRINEER
+  MissionType: MT_INTEL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Tiamat
+  Id: SolNode201
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Yemaja
+  Id: SolNode202
+  Faction: FC_GRINEER
+  MissionType: MT_SURVIVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Conclave
+  Id: PvpNode7
+  Faction: FC_GRINEER
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Amarna
+  Id: ClanNode14
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Veles
+  Id: SolNode200
+  Faction: FC_GRINEER
+  MissionType: MT_RESCUE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sangeru
+  Id: ClanNode15
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1037,6 +2733,142 @@
   Faction: FC_GRINEER
   MissionType: MT_ASSASSINATION
   NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Valefor
+  Id: SolNode216
+  Faction: FC_CORPUS
+  MissionType: MT_EXCAVATE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Sorath
+  Id: SolNode214
+  Faction: FC_CORPUS
+  MissionType: MT_RETRIEVAL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Ose
+  Id: SolNode211
+  Faction: FC_CORPUS
+  MissionType: MT_TERRITORY
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Valac
+  Id: SolNode215
+  Faction: FC_CORPUS
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Shax
+  Id: SolNode213
+  Faction: FC_CORPUS
+  MissionType: MT_RESCUE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Paimon
+  Id: SolNode212
+  Faction: FC_CORPUS
+  MissionType: MT_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Conclave
+  Id: PvpNode5
+  Faction: FC_CORPUS
+  MissionType: MT_PVP
+  NodeType: NT_PVP
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Orias
+  Id: SolNode217
+  Faction: FC_CORPUS
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Zagan
+  Id: SolNode218
+  Faction: FC_CORPUS
+  MissionType: MT_SURVIVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Larzac
+  Id: ClanNode6
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cryotic Front
+  Id: EventNode15
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Beleth
+  Id: SolNode219
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kokabiel
+  Id: SolNode220
+  Faction: FC_CORPUS
+  MissionType: MT_SABOTAGE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cryotic Front
+  Id: EventNode12
+  Faction: FC_CORPUS
+  MissionType: MT_EXCAVATE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cryotic Front
+  Id: EventNode17
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cholistan
+  Id: ClanNode7
+  Faction: FC_INFESTATION
+  MissionType: MT_EXCAVATE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Cryotic Front
+  Id: EventNode16
+  Faction: FC_CORPUS
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
   ArchwingRequired: No
   IsSharkwing: No
 
@@ -1257,6 +3089,142 @@
   Faction: FC_GRINEER
   MissionType: MT_GENERIC
   NodeType: NT_SHORTCUT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: D'Arrest
+  Id: SettlementNode13
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Monolith
+  Id: SettlementNode12
+  Faction: FC_CORPUS
+  MissionType: MT_RESCUE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Kepler
+  Id: SettlementNode10
+  Faction: FC_CORPUS
+  MissionType: MT_RACE
+  NodeType: NT_MISSION
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Sharpless
+  Id: SettlementNode15
+  Faction: FC_CORPUS
+  MissionType: MT_MOBILE_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Reldresal
+  Id: SettlementNode8
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gulliver
+  Id: SettlementNode11
+  Faction: FC_CORPUS
+  MissionType: MT_DEFENSE
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Shklovsky
+  Id: SettlementNode14
+  Faction: FC_CORPUS
+  MissionType: MT_INTEL
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Clustril
+  Id: SettlementNode9
+  Faction: FC_GRINEER
+  MissionType: MT_EXTERMINATION
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Wendell
+  Id: SettlementNode16
+  Faction: FC_GRINEER
+  MissionType: MT_EXCAVATE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Todd
+  Id: SettlementNode19
+  Faction: FC_GRINEER
+  MissionType: MT_CAPTURE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Shifting Sands
+  Id: EventNode13
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Flimnap
+  Id: SettlementNode17
+  Faction: FC_GRINEER
+  MissionType: MT_SURVIVAL
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Memphis
+  Id: ClanNode10
+  Faction: FC_INFESTATION
+  MissionType: MT_DEFENSE
+  NodeType: NT_CLAN
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Iliad
+  Id: SettlementNode20
+  Faction: FC_CORPUS
+  MissionType: MT_ASSASSINATION
+  NodeType: NT_MISSION
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Gate Crash
+  Id: EventNode14
+  Faction: FC_GRINEER
+  MissionType: MT_SABOTAGE
+  NodeType: NT_EVENT
+  ArchwingRequired: No
+  IsSharkwing: No
+
+  Name: Opik
+  Id: SettlementNode18
+  Faction: FC_CORPUS
+  MissionType: MT_RACE
+  NodeType: NT_EVENT
+  ArchwingRequired: Yes
+  IsSharkwing: No
+
+  Name: Zeugma
+  Id: ClanNode11
+  Faction: FC_INFESTATION
+  MissionType: MT_SURVIVAL
+  NodeType: NT_CLAN
   ArchwingRequired: No
   IsSharkwing: No
 

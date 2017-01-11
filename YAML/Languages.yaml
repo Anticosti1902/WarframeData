@@ -2708,6 +2708,9 @@
 [/Game/OpenCrate]:
   "<MELEE_ACTION> OPEN WEAPON CRATE"
 
+[/Game/Overload]:
+  "OVERLOAD POWER"
+
 [/Game/Pickup_ItemName]:
   "PICK UP |ITEM_NAME|"
 
@@ -3394,6 +3397,9 @@
 
 [/Lotus/Language/Actions/Unlock]:
   "<USE> UNLOCK DOOR"
+
+[/Lotus/Language/Actions/UseAlchemyChair]:
+  "<USE> SIT"
 
 [/Lotus/Language/Actions/UsePowerCell]:
   "INSERT POWER CELL"
@@ -5124,6 +5130,9 @@
 [/Lotus/Language/Bosses/FrohdBek]:
   "Frohd Bek"
 
+[/Lotus/Language/Bosses/Helminth]:
+  "Helminth"
+
 [/Lotus/Language/Bosses/Lotus]:
   "Lotus"
 
@@ -5157,6 +5166,36 @@
 [/Lotus/Language/Bosses/Teshin]:
   "Teshin"
 
+[/Lotus/Language/Bundles/IndexTeamANoggleBundleDesc]:
+  "A collection of Noggle Statues representing the brokers from the Anyocorp Reclamation Unit."
+
+[/Lotus/Language/Bundles/IndexTeamANoggleBundleName]:
+  "ANYOCORP RECLAMATION UNIT NOGGLE PACK"
+
+[/Lotus/Language/Bundles/IndexTeamBNoggleBundleDesc]:
+  "A collection of Noggle Statues representing the brokers from the Anyocorp Trading Group."
+
+[/Lotus/Language/Bundles/IndexTeamBNoggleBundleName]:
+  "ANYOCORP TRADING GROUP NOGGLE PACK"
+
+[/Lotus/Language/Bundles/IndexTeamCNoggleBundleDesc]:
+  "A collection of Noggle Statues representing the brokers from the Claims Investigation team at Anyocorp."
+
+[/Lotus/Language/Bundles/IndexTeamCNoggleBundleName]:
+  "ANYOCORP CLAIMS INVESTIGATION NOGGLE PACK"
+
+[/Lotus/Language/Bundles/IndexTeamDNoggleBundleDesc]:
+  "A collection of Noggle Statues representing the brokers from the Investor Relations department of Anyocorp."
+
+[/Lotus/Language/Bundles/IndexTeamDNoggleBundleName]:
+  "ANYOCORP INVESTOR RELATIONS NOGGLE PACK"
+
+[/Lotus/Language/Bundles/KavatColorPackHyekkaDesc]:
+  "Degenerate a kavat into a furless Hyekka by altering its DNA structure."
+
+[/Lotus/Language/Bundles/KavatColorPackHyekkaName]:
+  "HYEKKA GENE-MASKING KIT"
+
 [/Lotus/Language/Bundles/KuvaArmorPackDesc]:
   "A full set of Kuva Armor."
 
@@ -5171,6 +5210,12 @@
 
 [/Lotus/Language/Bundles/KuvaMegaBundleName]:
   "CONTINUITY COLLECTION"
+
+[/Lotus/Language/Bundles/NidusBundleDesc]:
+  "Succumb to the Infestation with the Nidus Warframe, Hema rifle, Hirudo fist-weapons, and the Thorac Syandana.  Includes 3-Day Affinity and Credit Boosters."
+
+[/Lotus/Language/Bundles/NidusBundleName]:
+  "NIDUS COLLECTION"
 
 [/Lotus/Language/Challenges/Challenge_1HKHeadshot_Description]:
   "Headshot kill"
@@ -6886,7 +6931,7 @@
   "Kill |COUNT| enemies"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedKillSentients_Description]:
-  "Get the killing blow on |COUNT| sentients"
+  "Get the killing blow on |COUNT| Sentients"
 
 [/Lotus/Language/Challenges/Challenge_RandomizedKillStreak_Description]:
   " "
@@ -7188,6 +7233,12 @@
 [/Lotus/Language/Challenges/Challenge_ShurikenProficiency3_Name]:
   "Shuriken Proficiency III"
 
+[/Lotus/Language/Challenges/Challenge_SnowBallHeadshot_Desc]:
+  "Snowball Headshot"
+
+[/Lotus/Language/Challenges/Challenge_SnowBallHeadshot_Name]:
+  "MAY CONTAIN ROCKS"
+
 [/Lotus/Language/Challenges/Challenge_Solve1000Ciphers_Description]:
   "Solve 1000 Ciphers."
 
@@ -7419,6 +7470,12 @@
 [/Lotus/Language/Challenges/Challenge_WithoutAHitch_Name]:
   "Without a Hitch "
 
+[/Lotus/Language/Challenges/Challenge_XmasScytheMeleeKill_Desc]:
+  "Melee kill with Solstice Scythe"
+
+[/Lotus/Language/Challenges/Challenge_XmasScytheMeleeKill_Name]:
+  "MINTED"
+
 [/Lotus/Language/Challenges/WEAPON_LONG_GUN]:
   "[PH]"
 
@@ -7634,7 +7691,7 @@
   "The Index Preview"
 
 [/Lotus/Language/ChangeInfo/SCEAAPPVER_01.39_SCEAMASTERVER_01.00_SCEEAPPVER_01.38_SCEEMASTERVER_01.00_SCEZAPPVER_01.07_SCEZMASTERVER_01.00]:
-  "The Index Preview"
+  "The War Within"
 
 [/Lotus/Language/Changyou/AdjustmentColourPickerAbbrev]:
   "[PH] ADJUSTMENTS"
@@ -7669,6 +7726,9 @@
 
 [/Lotus/Language/Changyou/Beginner_Growth_Inbox_Title]:
   "Your New Mission"
+
+[/Lotus/Language/Changyou/BoosterUseCount]:
+  "|COUNT| USE"
 
 [/Lotus/Language/Changyou/CannotColourTimeLimitedEquipment]:
   "Cannot apply colors to time-limited equipment"
@@ -8742,6 +8802,18 @@
 [/Lotus/Language/CompanionApp/Time]:
   "TIME"
 
+[/Lotus/Language/Cosmetics/AshPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Ash Prime Warframe."
+
+[/Lotus/Language/Cosmetics/AshPrimeDefaultSkinName]:
+  "ASH PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/BansheeDefaultSkinDesc]:
+  "The standard issue skin for the Banshee Warframe."
+
+[/Lotus/Language/Cosmetics/BansheeDefaultSkinName]:
+  "BANSHEE SKIN"
+
 [/Lotus/Language/Cosmetics/BaroArmourADesc]:
   "This decorative armored plate is a Ki’Teer original."
 
@@ -8766,6 +8838,18 @@
 [/Lotus/Language/Cosmetics/BaroMeleeDangleName]:
   "[PH] KI'TEER SUGATRA"
 
+[/Lotus/Language/Cosmetics/BerserkerDefaultSkinDesc]:
+  "The standard issue skin for the Valkyr Warframe."
+
+[/Lotus/Language/Cosmetics/BerserkerDefaultSkinName]:
+  "VALKYR SKIN"
+
+[/Lotus/Language/Cosmetics/BrawlerDefaultSkinDesc]:
+  "The standard issue skin for the Atlas Warframe."
+
+[/Lotus/Language/Cosmetics/BrawlerDefaultSkinName]:
+  "ATLAS SKIN"
+
 [/Lotus/Language/Cosmetics/CatbrowArmorGrnQueenDesc]:
   "This decorative armor was forged for the Grineer Queens’ royal Kavats."
 
@@ -8784,11 +8868,35 @@
 [/Lotus/Language/Cosmetics/CatbrowArmorVoidTraderAName]:
   "KI'TEER KAVAT ARMOR"
 
+[/Lotus/Language/Cosmetics/CatbrowPetPatternHyekkaDesc]:
+  "A degenerated furless pattern for your Kavat."
+
+[/Lotus/Language/Cosmetics/CatbrowPetPatternHyekkaName]:
+  "HYEKKA FURLESS PATTERN"
+
+[/Lotus/Language/Cosmetics/ChromaDefaultSkinDesc]:
+  "The standard issue skin for the Chroma Warframe."
+
+[/Lotus/Language/Cosmetics/ChromaDefaultSkinName]:
+  "CHROMA SKIN"
+
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleDesc]:
-  "[PH] Description"
+  "A token of Corpus ingenuity."
 
 [/Lotus/Language/Cosmetics/CorpusMeleeDangleName]:
-  "[PH] CORPUS MELEE DANGLE"
+  "QUARO SUGATRA "
+
+[/Lotus/Language/Cosmetics/CowgirlDefaultSkinDesc]:
+  "The standard issue skin for the Mesa Warframe."
+
+[/Lotus/Language/Cosmetics/CowgirlDefaultSkinName]:
+  "MESA SKIN"
+
+[/Lotus/Language/Cosmetics/CrpModularScarfDesc]:
+  "March through the battlefield with this Corpus cloak."
+
+[/Lotus/Language/Cosmetics/CrpModularScarfName]:
+  "VEXILLUS CLOAK"
 
 [/Lotus/Language/Cosmetics/DjinnDeluxeArmArmourDesc]:
   "Etched with lyrical designs, this decorative armor has been crafted with meticulous care. "
@@ -8814,11 +8922,53 @@
 [/Lotus/Language/Cosmetics/DjinnDeluxeLegArmourName]:
   "GAZAL LEG PLATES"
 
+[/Lotus/Language/Cosmetics/EmberDefaultSkinDesc]:
+  "The standard issue skin for the Ember Warframe."
+
+[/Lotus/Language/Cosmetics/EmberDefaultSkinName]:
+  "EMBER SKIN"
+
+[/Lotus/Language/Cosmetics/EmberPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Ember Prime Warframe."
+
+[/Lotus/Language/Cosmetics/EmberPrimeDefaultSkinName]:
+  "EMBER PRIME SKIN"
+
 [/Lotus/Language/Cosmetics/EmbolistMeleeDangleDesc]:
   "A disgusting little nib of flesh to infest the hilt of any melee weapon."
 
 [/Lotus/Language/Cosmetics/EmbolistMeleeDangleName]:
   "TENTACYST"
+
+[/Lotus/Language/Cosmetics/ESGrnSugatraDesc]:
+  "Fashioned by frontline grunts, this military-grade weapon embellishment was built to withstand the stresses of combat."
+
+[/Lotus/Language/Cosmetics/ESGrnSugatraName]:
+  "BOLOKET SUGATRA"
+
+[/Lotus/Language/Cosmetics/FairyDefaultSkinDesc]:
+  "The standard issue skin for the Titania Warframe."
+
+[/Lotus/Language/Cosmetics/FairyDefaultSkinName]:
+  "TITANIA SKIN"
+
+[/Lotus/Language/Cosmetics/FrostDefaultSkinDesc]:
+  "The standard issue skin for the Frost Warframe."
+
+[/Lotus/Language/Cosmetics/FrostDefaultSkinName]:
+  "FROST SKIN"
+
+[/Lotus/Language/Cosmetics/FrostDeluxeGreatSwordDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/Cosmetics/FrostDeluxeGreatSwordName]:
+  "[PH] FROST DELUXE GREAT SWORD"
+
+[/Lotus/Language/Cosmetics/FrostPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Frost Prime Warframe."
+
+[/Lotus/Language/Cosmetics/FrostPrimeDefaultSkinName]:
+  "FROST PRIME SKIN"
 
 [/Lotus/Language/Cosmetics/GrnHoodedCapeDesc]:
   "Once worn by an elegant Elder Queen, before time and disease left her body mangled and disfigured."
@@ -8837,6 +8987,24 @@
 
 [/Lotus/Language/Cosmetics/GrnQueensMeleeDangleName]:
   "KUVA CORD"
+
+[/Lotus/Language/Cosmetics/GrnStrapsScarfDesc]:
+  "Fashioned with spare field components this cloak is an example of rarely seen creativity within the Grineer ranks."
+
+[/Lotus/Language/Cosmetics/GrnStrapsScarfName]:
+  "LADDAK CLOAK"
+
+[/Lotus/Language/Cosmetics/HydroidDefaultSkinDesc]:
+  "The standard issue skin for the Hydroid Warframe."
+
+[/Lotus/Language/Cosmetics/HydroidDefaultSkinName]:
+  "HYDROID SKIN"
+
+[/Lotus/Language/Cosmetics/IndexBadgeDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/Cosmetics/IndexBadgeName]:
+  "[PH] INDEX BADGE"
 
 [/Lotus/Language/Cosmetics/IndexEventBadgeDesc]:
   "A memento of The Index."
@@ -8862,11 +9030,95 @@
 [/Lotus/Language/Cosmetics/InfEmbolistArmorLName]:
   "EMBOLIST LEG GROWTHS"
 
+[/Lotus/Language/Cosmetics/InfestationDefaultSkinDesc]:
+  "The standard issue skin for the Nidus Warframe."
+
+[/Lotus/Language/Cosmetics/InfestationDefaultSkinName]:
+  "NIDUS SKIN"
+
+[/Lotus/Language/Cosmetics/InfScarfRibCageDesc]:
+  "A sinuous spine of Infested anatomy."
+
+[/Lotus/Language/Cosmetics/InfScarfRibCageName]:
+  "THORAC SYANDANA"
+
+[/Lotus/Language/Cosmetics/KavatColorAccentsHyekkaName]:
+  "CARGO YELLOW"
+
+[/Lotus/Language/Cosmetics/KavatColorBaseHyekkaName]:
+  "FLESH BROWN"
+
+[/Lotus/Language/Cosmetics/KavatColorSecondaryHyekkaName]:
+  "BLOOD RED"
+
+[/Lotus/Language/Cosmetics/KavatColorTertiaryHyekkaName]:
+  "SLUDGE BROWN"
+
 [/Lotus/Language/Cosmetics/KubrowArmorGrnQueenDesc]:
   "Drahks are outfitted with this armor for the Queens’ royal prisoner hunts."
 
 [/Lotus/Language/Cosmetics/KubrowArmorGrnQueenName]:
   "KUVA KUBROW ARMOR"
+
+[/Lotus/Language/Cosmetics/LokiDefaultSkinDesc]:
+  "The standard issue skin for the Loki Warframe."
+
+[/Lotus/Language/Cosmetics/LokiDefaultSkinName]:
+  "LOKI SKIN"
+
+[/Lotus/Language/Cosmetics/LokiPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Loki Prime Warframe."
+
+[/Lotus/Language/Cosmetics/LokiPrimeDefaultSkinName]:
+  "LOKI PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/MagDefaultSkinDesc]:
+  "The standard issue skin for the Mag Warframe."
+
+[/Lotus/Language/Cosmetics/MagDefaultSkinName]:
+  "MAG SKIN"
+
+[/Lotus/Language/Cosmetics/MagicianDefaultSkinDesc]:
+  "The standard issue skin for the Limbo Warframe."
+
+[/Lotus/Language/Cosmetics/MagicianDefaultSkinName]:
+  "LIMBO SKIN"
+
+[/Lotus/Language/Cosmetics/MagPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Mag Prime Warframe."
+
+[/Lotus/Language/Cosmetics/MagPrimeDefaultSkinName]:
+  "MAG PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/MirageDefaultSkinDesc]:
+  "The standard issue skin for the Mirage Warframe."
+
+[/Lotus/Language/Cosmetics/MirageDefaultSkinName]:
+  "MIRAGE SKIN"
+
+[/Lotus/Language/Cosmetics/MonkeyKingDefaultSkinDesc]:
+  "The standard issue skin for the Wukong Warframe."
+
+[/Lotus/Language/Cosmetics/MonkeyKingDefaultSkinName]:
+  "WUKONG SKIN"
+
+[/Lotus/Language/Cosmetics/NekrosDefaultSkinDesc]:
+  "The standard issue skin for the Nekros Warframe."
+
+[/Lotus/Language/Cosmetics/NekrosDefaultSkinName]:
+  "NEKROS SKIN"
+
+[/Lotus/Language/Cosmetics/NekrosPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Nekros Prime Warframe."
+
+[/Lotus/Language/Cosmetics/NekrosPrimeDefaultSkinName]:
+  "NEKROS PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/NezhaDefaultSkinDesc]:
+  "The standard issue skin for the Nezha Warframe."
+
+[/Lotus/Language/Cosmetics/NezhaDefaultSkinName]:
+  "NEZHA SKIN"
 
 [/Lotus/Language/Cosmetics/NightwatchBrakkSkinDesc]:
   "Emblazon the Brakk in the colors of the Grineer's most notorious unit."
@@ -8916,17 +9168,143 @@
 [/Lotus/Language/Cosmetics/NightwatchTonkorName]:
   "TONKOR NIGHTWATCH SKIN"
 
+[/Lotus/Language/Cosmetics/NinjaDefaultSkinDesc]:
+  "The standard issue skin for the Ash Warframe."
+
+[/Lotus/Language/Cosmetics/NinjaDefaultSkinName]:
+  "ASH SKIN"
+
+[/Lotus/Language/Cosmetics/NovaDefaultSkinDesc]:
+  "The standard issue skin for the Nova Warframe."
+
+[/Lotus/Language/Cosmetics/NovaDefaultSkinName]:
+  "NOVA SKIN"
+
+[/Lotus/Language/Cosmetics/NovaPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Nova Prime Warframe."
+
+[/Lotus/Language/Cosmetics/NovaPrimeDefaultSkinName]:
+  "NOVA PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/NyxDefaultSkinDesc]:
+  "The standard issue skin for the Nyx Warframe."
+
+[/Lotus/Language/Cosmetics/NyxDefaultSkinName]:
+  "NYX SKIN"
+
+[/Lotus/Language/Cosmetics/NyxPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Nyx Prime Warframe."
+
+[/Lotus/Language/Cosmetics/NyxPrimeDefaultSkinName]:
+  "NYX PRIME SKIN"
+
 [/Lotus/Language/Cosmetics/ObsidianGlaiveDesc]:
   "A next-generation skin for the Glaive."
 
 [/Lotus/Language/Cosmetics/ObsidianGlaiveName]:
   "GLAIVE OBSIDIAN SKIN"
 
+[/Lotus/Language/Cosmetics/PaladinDefaultSkinDesc]:
+  "The standard issue skin for the Oberon Warframe."
+
+[/Lotus/Language/Cosmetics/PaladinDefaultSkinName]:
+  "OBERON SKIN"
+
+[/Lotus/Language/Cosmetics/RangerDefaultSkinDesc]:
+  "The standard issue skin for the Ivara Warframe."
+
+[/Lotus/Language/Cosmetics/RangerDefaultSkinName]:
+  "IVARA SKIN"
+
+[/Lotus/Language/Cosmetics/RhinoDefaultSkinDesc]:
+  "The standard issue skin for the Rhino Warframe."
+
+[/Lotus/Language/Cosmetics/RhinoDefaultSkinName]:
+  "RHINO SKIN"
+
+[/Lotus/Language/Cosmetics/RhinoPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Rhino Prime Warframe."
+
+[/Lotus/Language/Cosmetics/RhinoPrimeDefaultSkinName]:
+  "RHINO PRIME SKIN"
+
 [/Lotus/Language/Cosmetics/RobedDjinnDesc]:
   "Wrapped in silk and etched with glowing designs, the Gazal offers a glimpse of the Djinn uncorrupted by Infestation."
 
 [/Lotus/Language/Cosmetics/RobedDjinnName]:
   "DJINN GAZAL SKIN"
+
+[/Lotus/Language/Cosmetics/SandmanDefaultSkinDesc]:
+  "The standard issue skin for the Inaros Warframe."
+
+[/Lotus/Language/Cosmetics/SandmanDefaultSkinName]:
+  "INAROS SKIN"
+
+[/Lotus/Language/Cosmetics/SarynDefaultSkinDesc]:
+  "The standard issue skin for the Saryn Warframe."
+
+[/Lotus/Language/Cosmetics/SarynDefaultSkinName]:
+  "SARYN SKIN"
+
+[/Lotus/Language/Cosmetics/SarynPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Saryn Prime Warframe."
+
+[/Lotus/Language/Cosmetics/SarynPrimeDefaultSkinName]:
+  "SARYN PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/TenguDefaultSkinDesc]:
+  "The standard issue skin for the Zephyr Warframe."
+
+[/Lotus/Language/Cosmetics/TenguDefaultSkinName]:
+  "ZEPHYR SKIN"
+
+[/Lotus/Language/Cosmetics/TrapperDefaultSkinDesc]:
+  "The standard issue skin for the Vauban Warframe."
+
+[/Lotus/Language/Cosmetics/TrapperDefaultSkinName]:
+  "VAUBAN SKIN"
+
+[/Lotus/Language/Cosmetics/TrapperPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Vauban Prime Warframe."
+
+[/Lotus/Language/Cosmetics/TrapperPrimeDefaultSkinName]:
+  "VAUBAN PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/TrinityDefaultSkinDesc]:
+  "The standard issue skin for the Trinity Warframe."
+
+[/Lotus/Language/Cosmetics/TrinityDefaultSkinName]:
+  "TRINITY SKIN"
+
+[/Lotus/Language/Cosmetics/TrinityPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Trinity Prime Warframe."
+
+[/Lotus/Language/Cosmetics/TrinityPrimeDefaultSkinName]:
+  "TRINITY PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/ValkyrPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Valkyr Prime Warframe."
+
+[/Lotus/Language/Cosmetics/ValkyrPrimeDefaultSkinName]:
+  "VALKYR PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/VoltDefaultSkinDesc]:
+  "The standard issue skin for the Volt Warframe."
+
+[/Lotus/Language/Cosmetics/VoltDefaultSkinName]:
+  "VOLT SKIN"
+
+[/Lotus/Language/Cosmetics/VoltPrimeDefaultSkinDesc]:
+  "The standard issue skin for the Volt Prime Warframe."
+
+[/Lotus/Language/Cosmetics/VoltPrimeDefaultSkinName]:
+  "VOLT PRIME SKIN"
+
+[/Lotus/Language/Cosmetics/YinYangDefaultSkinDesc]:
+  "The standard issue skin for the Equinox Warframe."
+
+[/Lotus/Language/Cosmetics/YinYangDefaultSkinName]:
+  "EQUINOX SKIN"
 
 [/Lotus/Language/CrashHandler/STRING_BUILDING_SEND_REQUEST]:
   "Compiling report send request..."
@@ -9269,7 +9647,7 @@
   "Weapons and Warframes have modified stats in the Conclave! Be sure to check them out in the Conclave Loadout menu before entering the battlefield."
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip132]:
-  "Mobility is key when battling it out in the Conclave. Equip your Warframe with Agile Aim, Blind Shot, Assault Rifle, or Hastened Steps to keep out of reach from your opponents!"
+  "Mobility is key when battling it out in the Conclave. Equip your Warframe with the No Current Leap, Rising Skill, and Adept Surge Mods to keep out of reach from your opponents!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip133]:
   "Killed enemies in Conclave Annihilation matches drop Oro. Be sure to pick it up to gain points!"
@@ -9344,7 +9722,7 @@
   "In the Conclave, explosive weapons deal less damage the further you are from detonation. Get up close and personal with your opponents, but be aware of <DT_EXPLOSION>Blast damage!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip155]:
-  "In the Conclave, some projectile weapons, like bows, have faster travel speed. Bring these to battle to hit fast moving targets!"
+  "In the Conclave, projectile weapons, like bows, can take some time to reach their targets. Use weapons with bullets, which travel instantly, to hit fast moving Tenno!"
 
 [/Lotus/Language/DesignCouncilTips/DC_Tip156]:
   "In the Conclave, most channeled abilities prevent you from picking up energy. Time your abilities wisely so that you don't miss out on energy!"
@@ -12086,6 +12464,9 @@
 [/Lotus/Language/Dojo/TRADE_ERR_BUDDY_OFFERING_PLAT]:
   "Failed to offer <PLATINUM_CREDITS> Platinum because your trade partner is already offering <PLATINUM_CREDITS> Platinum in this trade."
 
+[/Lotus/Language/Dojo/TRADE_ERR_BUDDY_OMEGA_CAPACITY]:
+  "Cannot add additional Riven mods to the trade, your trade partner has reached their Riven capacity."
+
 [/Lotus/Language/Dojo/TRADE_ERR_INSUFFICIENT_CREDITS_BUDDY]:
   "The trade failed: Your trade partner does not have enough <CREDITS> Credits to pay the trade tax."
 
@@ -12847,6 +13228,42 @@
 [/Lotus/Language/Enemies/CCTeamCStealthName]:
   "Tia Mayn"
 
+[/Lotus/Language/Enemies/CCTeamDBusterADesc]:
+  "As the Chief Officer of the Investor Relations department, Armis pressures investors into accepting Nef Anyo’s invitation to The Index. He’s also adept at leveraging investor debt to make maximum profit for Anyo Corp."
+
+[/Lotus/Language/Enemies/CCTeamDBusterAName]:
+  "Armis Ulta"
+
+[/Lotus/Language/Enemies/CCTeamDBusterBDesc]:
+  "A senior Analysts, Dru addresses all complaints received from colonists in person - with a high-grade, rubedo-lined laser cannon. "
+
+[/Lotus/Language/Enemies/CCTeamDBusterBName]:
+  "Dru Pesfor"
+
+[/Lotus/Language/Enemies/CCTeamDBusterCDesc]:
+  "More than just a broker, Rana is a hostile customer relations specialist. When Investors refuse to pay their debts, they can look forward to a visit from her."
+
+[/Lotus/Language/Enemies/CCTeamDBusterCName]:
+  "Rana Del"
+
+[/Lotus/Language/Enemies/CCTeamDOspreyDesc]:
+  "Designed to execute the 002 Eradication Protocol, this Osprey identifies high-risk brokers and administers injury."
+
+[/Lotus/Language/Enemies/CCTeamDOspreyName]:
+  "002-ER"
+
+[/Lotus/Language/Enemies/CCTeamDTrapName]:
+  "NUMO TRAP"
+
+[/Lotus/Language/Enemies/ColonistDesc]:
+  "Many generations ago, in search of a life free from the corrupting influence of greed, the Mycona split from the Corpus. Life was difficult for the new colony, but they proved resourceful by surviving where no one thought possible, among the Infestation. Now, they earn their living harvesting the biological products of the Infested and trading with outsiders. Contact with Mycona is limited, but those that trade with them speak of a strange force capable of pacifying the otherwise ravenous Infested horde.  They Myconians call this force, the Triuna."
+
+[/Lotus/Language/Enemies/ColonistName]:
+  "MYCONIAN HUNTER"
+
+[/Lotus/Language/Enemies/ColonistNpcName]:
+  "MYCONIAN COLONIST"
+
 [/Lotus/Language/Enemies/FairyQuestLoki]:
   "KNAVE SPECTER"
 
@@ -12858,6 +13275,42 @@
 
 [/Lotus/Language/Enemies/FairyQuestSarynMolt]:
   "ORPHID HUSKS"
+
+[/Lotus/Language/Enemies/GrineerWorkerADesc]:
+  "Oversees the tasks performed by other drudges."
+
+[/Lotus/Language/Enemies/GrineerWorkerAName]:
+  "DRUDGE FOREMAN"
+
+[/Lotus/Language/Enemies/GrineerWorkerBDesc]:
+  "Proficient with tools used for smelting."
+
+[/Lotus/Language/Enemies/GrineerWorkerBName]:
+  "DRUDGE BRAZER"
+
+[/Lotus/Language/Enemies/GrineerWorkerCDesc]:
+  "Proficient with tools used for grinding."
+
+[/Lotus/Language/Enemies/GrineerWorkerCName]:
+  "DRUDGE SCRAPPER"
+
+[/Lotus/Language/Enemies/IndexSpecterEmber]:
+  "Ember Specter"
+
+[/Lotus/Language/Enemies/IndexSpecterFrost]:
+  "Frost Specter"
+
+[/Lotus/Language/Enemies/IndexSpecterIvara]:
+  "Ivara Specter"
+
+[/Lotus/Language/Enemies/IndexSpecterMag]:
+  "Mag Specter"
+
+[/Lotus/Language/Enemies/IndexSpecterVolt]:
+  "Volt Specter"
+
+[/Lotus/Language/Enemies/IndexSpecterWukong]:
+  "Wukong Specter"
 
 [/Lotus/Language/Enemies/ReplicantChroma]:
   "CHROMA SPECTER"
@@ -14122,6 +14575,10 @@
 [/Lotus/Language/G1Quests/AWQDescription]:
   "The Balor Fomorians are coming but we are ready. Through your efforts we finally have a working Archwing prototype and I am sending you the blueprint. However, your task is not yet complete. You still must discover the component parts. "
 
+[/Lotus/Language/G1Quests/AWQHelpText]:
+  "<MINI_ARROW> Mastery Rank 2
+  <MINI_ARROW> Earth: Mars Junction"
+
 [/Lotus/Language/G1Quests/AWQIntroMessageBody]:
   "Incoming Briefing from the Lotus."
 
@@ -14635,6 +15092,11 @@
 [/Lotus/Language/G1Quests/DragonQuestDesc]:
   "Work with Cephalon Simaris to find the source of a mysterious voice."
 
+[/Lotus/Language/G1Quests/DragonQuestHelpText]:
+  "<MINI_ARROW> Mastery Rank 5
+  <MINI_ARROW> <QUEST> Stolen Dreams quest
+  <MINI_ARROW> Jupiter: Europa junction"
+
 [/Lotus/Language/G1Quests/DragonQuestHubDesertSkateScans]:
   "Synthesize 3 Elite Arid Lancers on Mars for Simaris"
 
@@ -14689,6 +15151,9 @@
 [/Lotus/Language/G1Quests/DragonQuestTitleSimaris]:
   "<QUEST> THE NEW STRANGE"
 
+[/Lotus/Language/G1Quests/ErgoGlastName]:
+  "Ergo Glast"
+
 [/Lotus/Language/G1Quests/ExcavationEventName]:
   "Cryotic Front"
 
@@ -14739,6 +15204,11 @@
 
 [/Lotus/Language/G1Quests/FairyQuestDesc]:
   "New Loka seeks help protecting a sacred forest from Grineer incursions, but are they ready to face the forest’s true nature?"
+
+[/Lotus/Language/G1Quests/FairyQuestHelpText]:
+  "<MINI_ARROW> Mastery Rank 7
+  <MINI_ARROW> <QUEST> Second Dream quest
+  <MINI_ARROW> Talk to Amaryn in New Loka room in any Relay"
 
 [/Lotus/Language/G1Quests/FairyQuestInboxEndBody]:
   "Tenno, 
@@ -15046,6 +15516,9 @@
 [/Lotus/Language/G1Quests/GetClemDesc]:
   "Darvo needs your help again. Save one of his best contractors from Grineer execution."
 
+[/Lotus/Language/G1Quests/GetClemHelpText]:
+  "<MINI_ARROW> Talk to Darvo in any Relay"
+
 [/Lotus/Language/G1Quests/GetClemIntroInboxBody]:
   "Friend,
   
@@ -15127,6 +15600,9 @@
 
 [/Lotus/Language/G1Quests/GolemQuestDesc]:
   "Ordis is determined to help a fellow Cephalon overcome a ship wide infestation."
+
+[/Lotus/Language/G1Quests/GolemQuestHelpText]:
+  "<MINI_ARROW> Pluto: Eris junction"
 
 [/Lotus/Language/G1Quests/GolemQuestIntroBody]:
   "CEPHALON STRANDED. SHIP IMMOBILIZED. POWER FAILING. EXTINCTION EVENT.
@@ -15351,6 +15827,10 @@
 [/Lotus/Language/G1Quests/IAVQDescription]:
   "Find Alad V’s laboratory and put a stop to his madness"
 
+[/Lotus/Language/G1Quests/IAVQHelpText]:
+  "<MINI_ARROW> <QUEST> Once Awake quest
+  <MINI_ARROW> Pluto: Eris junction"
+
 [/Lotus/Language/G1Quests/IAVQHiveSabotageObjective]:
   "Sabotage Alad's Infested ships"
 
@@ -15483,6 +15963,9 @@
   "[PH] 
   Rough notes for this entry. They were dormant until he found them. He thinks they could make excellent shock troops. Only problem is that he hasn’t found a good way to control them. Testing has resulted in many of these creatures being destroyed, fire works best. The Grineer have stock piled fire modifications explicitly for this purpose. These creatures are truly a thing of beauty, I am anxious to see them unleashed on the Tenno.”"
 
+[/Lotus/Language/G1Quests/IIQHelpText]:
+  "<MINI_ARROW> Venus: Mercury Junction"
+
 [/Lotus/Language/G1Quests/IIQIntroMessageBody]:
   "Tenno,
   
@@ -15506,6 +15989,27 @@
 
 [/Lotus/Language/G1Quests/IIQTitle]:
   "ONCE AWAKE"
+
+[/Lotus/Language/G1Quests/IndexDescription]:
+  "[PH] Use /Lotus/Language/G1Quests/IndexQuestDescription instead!!!! "
+
+[/Lotus/Language/G1Quests/IndexDrawingABody]:
+  "A drawing by the Myconian Neewa."
+
+[/Lotus/Language/G1Quests/IndexDrawingATitle]:
+  "Neewa's Drawing"
+
+[/Lotus/Language/G1Quests/IndexDrawingBBody]:
+  "A drawing by the Myconian Neewa."
+
+[/Lotus/Language/G1Quests/IndexDrawingBTitle]:
+  "Neewa's Drawing"
+
+[/Lotus/Language/G1Quests/IndexDrawingCBody]:
+  "A drawing by the Myconian Neewa."
+
+[/Lotus/Language/G1Quests/IndexDrawingCTitle]:
+  "Neewa's Drawing"
 
 [/Lotus/Language/G1Quests/IndexEventA]:
   "[PH] Low Risk, Negligible Rewards"
@@ -15557,6 +16061,119 @@
 
 [/Lotus/Language/G1Quests/IndexEventRewardMessageTitle]:
   "THE INDEX: Jackpot"
+
+[/Lotus/Language/G1Quests/IndexQuestCureHerBody]:
+  "Tenno, 
+  
+  You made the right choice. Neewa is recovering well with many opportunities in front of her. Rest well, knowing that you helped her escape an early death in some darkened Infested freighter. The Myconians are safe too. A contingent of specters will now protect them from the Infested. They will adapt to this new reality, and no more children will have this affliction forced upon them.
+  
+  As agreed, the Myconians have sent you their Old War relic.
+  
+  I’ll give the final word to Neewa. 
+  
+  -The Lotus"
+
+[/Lotus/Language/G1Quests/IndexQuestCureHerChoice]:
+  "Cure her"
+
+[/Lotus/Language/G1Quests/IndexQuestCureHerTitle]:
+  "Neewa Has Been Cured"
+
+[/Lotus/Language/G1Quests/IndexQuestDescription]:
+  "Nef Anyo has stolen the children of the Mycona Colony and it is up to you to get them back. You must challenge Nef on The Index and beat him at his own game. But Tenno, beware, not all is as it seems."
+
+[/Lotus/Language/G1Quests/IndexQuestErgoInitiate]:
+  "The Glast Gambit"
+
+[/Lotus/Language/G1Quests/IndexQuestErgoRelayMeetingBody]:
+  "Ergo Glast, Founder and President of the Perrin Sequence would like to meet with you to discuss an urgent matter that is of concern to the Tenno. Come to our Relay office at your earliest convenience."
+
+[/Lotus/Language/G1Quests/IndexQuestErgoRelayMeetingTitle]:
+  "Urgent Meeting Request: President Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestHelpText]:
+  "<MINI_ARROW> <QUEST> The War Within
+  <MINI_ARROW> Talk to Ergo Glast in Perrin Sequence room in any Relay"
+
+[/Lotus/Language/G1Quests/IndexQuestLerHerChooseChoice]:
+  "Let her decide"
+
+[/Lotus/Language/G1Quests/IndexQuestLetHerChooseBody]:
+  "|PLAYER_NAME|
+  
+  The choice you gave Neewa had a profound effect on her but I’ll let her explain that in her own words.
+  
+  On behalf of Perrin Sequence and the people of Mycona Colony, I offer you our sincere gratitude. Without you, Mycona would no longer exist. To celebrate your selfless deed, the Myconians have sent you their prized Old War relic. It is their sincere hope you use it to protect others as you have protected them.
+  
+  Yours Truly,
+  Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestLetHerChooseTitle]:
+  "Neewa Has Made Her Choice"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing1Body]:
+  "Tenno, here is the drawing my operative was able to smuggle out of Neewa’s cell. Just in case you need to be reminded of who you are helping.
+  
+  -Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing1Title]:
+  "Neewa's Drawing"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing2Body]:
+  "My Corpus operative on the inside was able to get a message from Neewa. She is defiant but scared, for herself, but even more so for her people. Our only choice is to continue at the Index. It sickens me to think we are literally gambling for their futures, but this is the only way to get at Nef. 
+  
+  Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing2Title]:
+  "Another dispatch from Neewa"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing3Body]:
+  "We got a tip that Neewa was on a Corpus ship. Our operatives attempted a raid, but all they found was this message. I was reluctant to share this fact, until now, as I feared the judgment you’d pass on their traditions. Neewa proudly carries an ancestral burden for the prosperity of her colony. I hope you can understand this without judgment.
+  
+  Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing3Title]:
+  "Evidence of the Triuna"
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing4Body]:
+  "We also found this in the data vault. The good news is that Neewa’s still alive."
+
+[/Lotus/Language/G1Quests/IndexQuestNeewaDrawing4Title]:
+  "More from Neewa"
+
+[/Lotus/Language/G1Quests/IndexQuestPullQuote]:
+  "“We must exercise caution, don’t come on too strong, or he will back off. We need to, as they say, ‘hustle’ him.”"
+
+[/Lotus/Language/G1Quests/IndexQuestSendHerHomeBody]:
+  "|PLAYER_NAME|
+  
+  On behalf of Perrin Sequence and the people of Mycona Colony, I offer you our sincere gratitude. Without you, Mycona would no longer exist. To celebrate your selfless deed, the Myconians have sent you their prized Old War relic. It is their sincere hope you use it to protect others as you have protected them.
+  
+  I hope this message from Neewa communicates how truly grateful they all are.
+  
+  Yours Truly,
+  Ergo Glast"
+
+[/Lotus/Language/G1Quests/IndexQuestSendHerHomeChoice]:
+  "Send her home"
+
+[/Lotus/Language/G1Quests/IndexQuestSendHerHomeTitle]:
+  "Neewa Is Home"
+
+[/Lotus/Language/G1Quests/IndexQuestStage1]:
+  "Help Secure Mycona Colony"
+
+[/Lotus/Language/G1Quests/IndexQuestStage2345]:
+  "Challenge Nef Anyo on The Index"
+
+[/Lotus/Language/G1Quests/IndexQuestStage68]:
+  "Win back Neewa"
+
+[/Lotus/Language/G1Quests/IndexQuestStage7]:
+  "Find the source of Nef’s cheats"
+
+[/Lotus/Language/G1Quests/IndexTitle]:
+  "THE GLAST GAMBIT"
 
 [/Lotus/Language/G1Quests/IndexTutorialA]:
   "So Tenno, you think you have what it takes to be a broker on The Index? Allow me educate you."
@@ -15802,6 +16419,9 @@
 [/Lotus/Language/G1Quests/KubrowQuestCodexDesc]:
   "You are Tenno, you deserve a Kubrow by your side."
 
+[/Lotus/Language/G1Quests/KubrowQuestHelpText]:
+  "<MINI_ARROW> Venus: Mercury Junction"
+
 [/Lotus/Language/G1Quests/KubrowQuestHint1]:
   "Find the Incubator Segment"
 
@@ -15835,6 +16455,9 @@
   "The Limbo Theorem quest cannot be completed without an Archwing
   
   Piece together the Limbo Theorem to uncover its source"
+
+[/Lotus/Language/G1Quests/LimboQHelpText]:
+  "<MINI_ARROW> Jupiter: Europa Junction"
 
 [/Lotus/Language/G1Quests/LimboQIntroMessageBody]:
   "Transmission from Ordis."
@@ -15977,6 +16600,9 @@
 
 [/Lotus/Language/G1Quests/MirageQuestDesc]:
   "Seek out the Warframe Mirage"
+
+[/Lotus/Language/G1Quests/MirageQuestHelpText]:
+  "<MINI_ARROW> Pluto: Sedna Junction"
 
 [/Lotus/Language/G1Quests/MirageQuestHint1]:
   "Solve the riddle from the Inbox message"
@@ -16135,6 +16761,10 @@
 [/Lotus/Language/G1Quests/MummyQuestDesc]:
   "Help Baro Ki'Teer raid an ancient Phobian tomb for a mysterious treasure."
 
+[/Lotus/Language/G1Quests/MummyQuestHelpText]:
+  "<MINI_ARROW> Mastery Rank 5
+  <MINI_ARROW> Purchase Sands Of Inaros Blueprint from Baro Ki'Teer"
+
 [/Lotus/Language/G1Quests/MummyQuestKeyName]:
   "Desert Tomb"
 
@@ -16178,6 +16808,12 @@
 
 [/Lotus/Language/G1Quests/MutalistIncursionClanTrophyTitle]:
   "Mutalist Incursions: Clan Trophy"
+
+[/Lotus/Language/G1Quests/NeewaChoicePrompt]:
+  "What do you choose for Neewa?"
+
+[/Lotus/Language/G1Quests/NeewaName]:
+  "Neewa"
 
 [/Lotus/Language/G1Quests/NefAnyoBattlePayMessage]:
   "Tenno,
@@ -16953,8 +17589,17 @@
 [/Lotus/Language/G1Quests/Q9E1End]:
   "Great work. With Izar gone, the program has dismantled. Our children will no longer suffer for the Grineer cause."
 
+[/Lotus/Language/G1Quests/QuestAnswerLater]:
+  "Not yet"
+
+[/Lotus/Language/G1Quests/QuestAnswerYes]:
+  "Yes"
+
 [/Lotus/Language/G1Quests/QuestMessage]:
   "For completing this quest, you have been awarded <CREDITS> |CREDIT_REWARD|"
+
+[/Lotus/Language/G1Quests/QuestPromptIndex]:
+  "Will you help Neewa’s people?"
 
 [/Lotus/Language/G1Quests/QuestTitle]:
   "|QUEST_NAME| Completed"
@@ -17220,6 +17865,10 @@
 [/Lotus/Language/G1Quests/SecondDreamFinishInboxTitle]:
   "YOU’RE ALIVE!"
 
+[/Lotus/Language/G1Quests/SecondDreamHelpText]:
+  "<MINI_ARROW> <QUEST> Natah quest
+  <MINI_ARROW> Uranus: Neptune junction"
+
 [/Lotus/Language/G1Quests/SecondDreamKeychain]:
   "THE SECOND DREAM"
 
@@ -17269,6 +17918,10 @@
 
 [/Lotus/Language/G1Quests/SentientQuestDesc]:
   "Strange drones have appeared in the Origin System, help the Lotus find out what they are and who sent them."
+
+[/Lotus/Language/G1Quests/SentientQuestHelpText]:
+  "<MINI_ARROW> Mastery Rank 3
+  <MINI_ARROW> Scan drones in Grineer Sealab"
 
 [/Lotus/Language/G1Quests/SentientQuestIntercept_Desc]:
   "Sgt. Scur-
@@ -17432,6 +18085,10 @@
 
 [/Lotus/Language/G1Quests/SpyQuestDescription]:
   "Once the severity of the Grineer capture order was made clear to her, Maroo was more than willing to accept our offer of protective custody. In exchange she will aid us in locating the Arcane Codices."
+
+[/Lotus/Language/G1Quests/SpyQuestHelpText]:
+  "<MINI_ARROW> Mastery Rank 3
+  <MINI_ARROW> Mars: Phobos junction"
 
 [/Lotus/Language/G1Quests/SpyQuestMachineAction]:
   "UPLOAD DATA FRAGMENTS"
@@ -17715,6 +18372,26 @@
 [/Lotus/Language/G1Quests/TacAlertHalloweenToolTip]:
   "Hallowed Nightmare Mode"
 
+[/Lotus/Language/G1Quests/TacAlertSnowballFightRewardsBody]:
+  "Operator, alert! 
+  
+  Ordis awoke from deep-diagnostic scans to find this item had been placed beside the central-heating exhaust vent. Surrounding it was a pile of melting snowballs and note that reads; 
+  
+  “Merry Solstice to all, and to all a good fight.” 
+  
+  The notion that some shady individual is slinking through the exhaust system while we rest disturbs Ordis immensely. Shall I devise a way to vaporize this mysterious gifter should they return?
+  
+  -Ordis"
+
+[/Lotus/Language/G1Quests/TacAlertSnowballFightRewardsTitle]:
+  "There’s been an intruder! "
+
+[/Lotus/Language/G1Quests/TacAlertSnowballFightTitle]:
+  "Snowday Showdown"
+
+[/Lotus/Language/G1Quests/TacAlertSnowballFightToolTip]:
+  "A frosty skirmish of snowballs and minty melee mayhem."
+
 [/Lotus/Language/G1Quests/TenguEventInboxMessage]:
   "Tenno,
   
@@ -17744,6 +18421,72 @@
 
 [/Lotus/Language/G1Quests/TenguEventRewardTitle]:
   "Operation Oxium Espionage: Completed"
+
+[/Lotus/Language/G1Quests/TennoBaumIntroInboxBody]:
+  "|PLAYER_NAME|,
+  
+  Endless war has brought destruction on the Solar System and its people. But none have been more affected than the System’s children. We must heal their wounds, but we can only do so by working together. Tenno, put down your blade—it’s time to lead by example. Show the people of this system your giving spirit so that they may do the same.
+  
+  Any generosity you show to your fellow Tenno will be recognized and matched as gift to the System’s children. You have already done so much to help, but any extra that you can give will go towards those in need.  
+  
+  - The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumIntroInboxTitle]:
+  "TENNOBAUM: Leading by Example"
+
+[/Lotus/Language/G1Quests/TennobaumTier1InboxBody]:
+  "|PLAYER_NAME|, 
+  
+  I am elated with the Tenno’s willingness to give. In recognition of that generosity, please take this gift. 
+  
+  - The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier1InboxTitle]:
+  "TENNOBAUM: A Thank You"
+
+[/Lotus/Language/G1Quests/TennobaumTier2InboxBody]:
+  "|PLAYER_NAME|, 
+  
+  Whispers of Tenno generosity have begun to echo through the Solar System. Others are rushing to thank you. They offer you this gift.
+  
+  - The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier2InboxTitle]:
+  "TENNOBAUM: Honoring Generosity"
+
+[/Lotus/Language/G1Quests/TennobaumTier3InboxBody]:
+  "|PLAYER_NAME|, 
+  
+  You’re an inspiration to those who suffered under the Grineer heel. Your actions have helped the System’s children in ways you could not imagine—here is another token of appreciation.
+  
+  - The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier3InboxTitle]:
+  "TENNOBAUM: Renewed Hope"
+
+[/Lotus/Language/G1Quests/TennobaumTier4InboxBody]:
+  "|PLAYER_NAME|, 
+  
+  If only you could hear the praises they are singing for you. The Tenno have brought such joy to the System’s children and their families. 
+  
+  They offer you this in thanks.
+  
+  - The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier4InboxTitle]:
+  "TENNOBAUM: Restoring Joy"
+
+[/Lotus/Language/G1Quests/TennobaumTier5InboxBody]:
+  "|PLAYER_NAME|, 
+  
+  Can you feel that, Tenno? A moment of peace has fallen upon the Solar System. The Grineer will strike again, but this time of giving has provided the children with a moment of respite. I always had great expectations of you, Tenno, but this goes beyond what I could have dreamed. This token cannot stand up against the generosity you have displayed, but I hope it shows my appreciation nonetheless. 
+  
+  Your generosity will be honored for years to come.
+  
+  - The Lotus"
+
+[/Lotus/Language/G1Quests/TennoBaumTier5InboxTitle]:
+  "TENNOBAUM: A Thousand Thank Yous"
 
 [/Lotus/Language/G1Quests/TennoRecognitionInboxDesc]:
   "Thanks for being a fan, using Facebook, appreciating Warframe and combining these virtues into successfully participating in our Tenno Recognition program! 
@@ -18190,6 +18933,10 @@
 
 [/Lotus/Language/G1Quests/WarWithinQuestDesc]:
   "A disturbance in the Somatic Link prompts the Lotus to send operatives back to the Tenno Reservoir."
+
+[/Lotus/Language/G1Quests/WarWithinQuestHelpText]:
+  "<MINI_ARROW> <QUEST> Second Dream quest
+  <MINI_ARROW> Pluto: Sedna junction"
 
 [/Lotus/Language/G1Quests/WarWithinQuestName]:
   "THE WAR WITHIN"
@@ -18864,11 +19611,20 @@
 [/Lotus/Language/G1Taunts/ZanukaTaunt]:
   "..."
 
+[/Lotus/Language/Game/ABILITY_DURATION]:
+  "ABILITY DURATION"
+
+[/Lotus/Language/Game/ABILITY_LENGTH]:
+  "LENGTH (METERS)"
+
 [/Lotus/Language/Game/ABILITY_MULTIPLIER]:
   "ABILITY MULTIPLIER"
 
 [/Lotus/Language/Game/ABILITY_RADIUS]:
   "ABILITY RADIUS"
+
+[/Lotus/Language/Game/ABILITY_WIDTH]:
+  "WIDTH (METERS)"
 
 [/Lotus/Language/Game/AbilityActivationBlocked]:
   "POWER USE PREVENTED"
@@ -18930,6 +19686,9 @@
 [/Lotus/Language/Game/AcolyteMeleeCrawlerDesc]:
   "Weak claw attacks"
 
+[/Lotus/Language/Game/ActivateAntidote]:
+  "<USE> ADMINISTER SERUM"
+
 [/Lotus/Language/Game/ActivateCannon]:
   "ACTIVATE CANNON (ALARMED)"
 
@@ -18937,7 +19696,7 @@
   "<USE> Transfer to Warframe"
 
 [/Lotus/Language/Game/ActivatePurifier]:
-  "Activate Vaporizor"
+  "Activate Vaporizer"
 
 [/Lotus/Language/Game/ADDITIONAL_CREDIT_CHANCE]:
   "ADDITIONAL CREDIT CHANCE (%)"
@@ -19881,6 +20640,9 @@
 [/Lotus/Language/Game/ENERGY_PER_PULSE]:
   "ENERGY PER PULSE"
 
+[/Lotus/Language/Game/ENERGY_REFUND]:
+  "ENERGY REFUND (PER HIT)"
+
 [/Lotus/Language/Game/EnergyPerSec]:
   "DRAIN PER SEC"
 
@@ -19999,7 +20761,7 @@
   "SENTIENT"
 
 [/Lotus/Language/Game/Faction_WildUC]:
-  "WILD"
+  "UNAFFILIATED"
 
 [/Lotus/Language/Game/FelisCatusArtifact]:
   "KURIA"
@@ -20547,6 +21309,12 @@
 [/Lotus/Language/Game/GrineerToxicLeaderName]:
   "GRINEER TOXIC LEADER"
 
+[/Lotus/Language/Game/GrineerWorker]:
+  "[PH] GRINEER WORKER"
+
+[/Lotus/Language/Game/GrineerWorkerDesc]:
+  "[PH] A Grineer Wrench Monkey"
+
 [/Lotus/Language/Game/GrineerZombieMarine]:
   "INFESTOID"
 
@@ -20712,6 +21480,21 @@
 [/Lotus/Language/Game/IndexPoints]:
   "Financial Stress"
 
+[/Lotus/Language/Game/IndexQuestScoreMargin]:
+  "Victory Margin |val|"
+
+[/Lotus/Language/Game/IndexQuestScoreMarginWarning]:
+  "MARGIN EXCEEDED"
+
+[/Lotus/Language/Game/INFECT_ADAPTATION_COST]:
+  "MUTATION STACKS COST"
+
+[/Lotus/Language/Game/INFEST_HEAL_RATE]:
+  "REGEN RATE (PER SECOND)"
+
+[/Lotus/Language/Game/INFEST_MAGGOT_DAMAGE]:
+  "MAGGOT RUPTURE"
+
 [/Lotus/Language/Game/InfestedAladV]:
   "MUTALIST ALAD V"
 
@@ -20853,8 +21636,11 @@
 [/Lotus/Language/Game/InfestedNoxiousCrawlerDesc]:
   "Releases a poison cloud on death"
 
-[/Lotus/Language/Game/InfestedPods_NotEnoughStacks]:
-  "[PH] Requires 3 Adaptation Stacks"
+[/Lotus/Language/Game/InfestedPods_OneMoreStack]:
+  "Requires 1 More Mutation Stack"
+
+[/Lotus/Language/Game/InfestedPods_XMoreStacks]:
+  "Requires |COUNT| More Mutation Stacks"
 
 [/Lotus/Language/Game/InfestedRunner]:
   "RUNNER"
@@ -21389,6 +22175,9 @@
 [/Lotus/Language/Game/MissionName_Purge]:
   "PURGE"
 
+[/Lotus/Language/Game/MissionName_Purify]:
+  "INFESTED SALVAGE"
+
 [/Lotus/Language/Game/MissionName_Pursuit]:
   "PURSUIT"
 
@@ -21769,13 +22558,28 @@
   "HOLD <PRE_ATTACK> TO USE BEAM, <AIM_WEAPON> TO AIM"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorial]:
-  "PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE"
+  "PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE
+  (LATER YOU CAN HOLD <ACTIVATE_ABILITY_4> TO FOCUS)"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorialPowerMenu]:
-  "PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO USE TRANSFERENCE"
+  "PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO USE TRANSFERENCE.
+  (LATER YOU CAN PRESS <POWER_MENU> AND HOLD <ACTIVATE_ABILITY_MENU_4> TO FOCUS)"
 
 [/Lotus/Language/Game/OperatorLisetTransferenceTutorialSelect]:
-  "PRESS <POWER_MODIFIER> TO USE TRANSFERENCE"
+  "PRESS <POWER_MODIFIER> TO USE TRANSFERENCE
+  (LATER YOU CAN HOLD <POWER_MODIFIER> TO FOCUS)"
+
+[/Lotus/Language/Game/OperatorLisetTransferenceTutorialWithFocus]:
+  "PRESS <ACTIVATE_ABILITY_4> TO USE TRANSFERENCE
+  (LATER YOU CAN HOLD <ACTIVATE_ABILITY_4> TO FOCUS)"
+
+[/Lotus/Language/Game/OperatorLisetTransferenceTutorialWithFocusPowerMenu]:
+  "PRESS <POWER_MENU> WITH <ACTIVATE_ABILITY_MENU_4> TO USE TRANSFERENCE.
+  (LATER YOU CAN PRESS <POWER_MENU> AND HOLD <ACTIVATE_ABILITY_MENU_4> TO FOCUS)"
+
+[/Lotus/Language/Game/OperatorLisetTransferenceTutorialWithFocusSelect]:
+  "PRESS <POWER_MODIFIER> TO USE TRANSFERENCE
+  (LATER YOU CAN HOLD <POWER_MODIFIER> TO FOCUS)"
 
 [/Lotus/Language/Game/OperatorMeleeTutorial]:
   "PRESS <MELEE> FOR VOID BLAST"
@@ -22035,6 +22839,27 @@
 [/Lotus/Language/Game/ProxMine]:
   "Prox Mine"
 
+[/Lotus/Language/Game/PurifyAreaClear]:
+  "Area Clear"
+
+[/Lotus/Language/Game/PurifyDecrypting]:
+  "DECRYPTING"
+
+[/Lotus/Language/Game/PurifyMissionFailed]:
+  "Manifest Destroyed, Mission Failed"
+
+[/Lotus/Language/Game/PurifyMissionSuccess]:
+  "Manifest Reconstructed, Mission Complete"
+
+[/Lotus/Language/Game/PurifyPanelHud]:
+  "Vaporizer"
+
+[/Lotus/Language/Game/PurifyPercent]:
+  "|PERCENT|%"
+
+[/Lotus/Language/Game/PurifyPurifier]:
+  "VAPORIZER"
+
 [/Lotus/Language/Game/PursuitEngineDisabled]:
   "Disabled"
 
@@ -22138,10 +22963,10 @@
   "+2 Index Point Bonus!"
 
 [/Lotus/Language/Game/PveGreedDepositBonusTier2]:
-  "+5 Index Point Bonus!"
+  "+4 Index Point Bonus!"
 
 [/Lotus/Language/Game/PveGreedDepositBonusTier3]:
-  "+7 Index Point Bonus!"
+  "+8 Index Point Bonus!"
 
 [/Lotus/Language/Game/PveGreedDepositBonusTier4]:
   "+10 Index Point Bonus!"
@@ -22866,6 +23691,18 @@
 [/Lotus/Language/Game/SurvivalTriggerAlarm]:
   "TRIGGER ALARM"
 
+[/Lotus/Language/Game/SYMBIOTIC_ALLY_RANGE]:
+  "ALLY RANGE (METERS)"
+
+[/Lotus/Language/Game/SYMBIOTIC_DAMAGE_BOOST]:
+  "DAMAGE INCREASE (%)"
+
+[/Lotus/Language/Game/SYMBIOTIC_DAMAGE_REDIRECTION]:
+  "DAMAGE REDIRECTION (%)"
+
+[/Lotus/Language/Game/SYMBIOTIC_FOE_RANGE]:
+  "ENEMY RANGE (METERS)"
+
 [/Lotus/Language/Game/TAG_INSTRUCTIONS1]:
   "FIRE SECONDARY TO TAG TARGET"
 
@@ -23426,6 +24263,12 @@
 
 [/Lotus/Language/GameModes/IndexEndless]:
   "THE INDEX: ENDURANCE"
+
+[/Lotus/Language/GameModes/IndexHard]:
+  "THE INDEX: HIGH RISK"
+
+[/Lotus/Language/GameModes/IndexNormal]:
+  "THE INDEX"
 
 [/Lotus/Language/GameModes/Interception]:
   "Interception"
@@ -24727,7 +25570,7 @@
   "Venomous Clip"
 
 [/Lotus/Language/Items/ArcTrapStoreItemDesc]:
-  "Sentinel will zap multiple enemies within range."
+  "Sentinel will zap up to |TARGETS| enemies within |RANGE|m, dealing |DAMAGE| damage with a |PROC|% status chance."
 
 [/Lotus/Language/Items/ArcTrapStoreItemName]:
   "Arc Coil"
@@ -26638,7 +27481,7 @@
   "Flaying Home"
 
 [/Lotus/Language/Items/BaitStoreItemDesc]:
-  "Draw your enemies close."
+  "Enemies within |RANGE|m will be attracted. Once they come within |FATAL_RANGE|m, explode for |DAMAGE| damage."
 
 [/Lotus/Language/Items/BaitStoreItemName]:
   "Fatal Attraction"
@@ -26987,7 +27830,7 @@
   "Arrow Mutation"
 
 [/Lotus/Language/Items/BowModConvertAmmoDesc]:
-  "Convert unused ammo drops into Arrows"
+  "Converts unused ammo drops into arrows; |PISTOL_RIFLE| ammo for pistol and rifle drops and |SHOTGUN_SNIPER| for shotgun ammo drops."
 
 [/Lotus/Language/Items/BowPickup]:
   "Pick up Bow"
@@ -27160,7 +28003,7 @@
   "Captain Vor Profile Icon"
 
 [/Lotus/Language/Items/CarrierPrimaryPreceptDesc]:
-  "Carrier will attack first visible enemy in range."
+  "Carrier will attack the first visible enemy within |RANGE|m."
 
 [/Lotus/Language/Items/CarrierPrimaryPreceptName]:
   "Striker"
@@ -27186,13 +28029,13 @@
   "[PH] CatbrowGrnQueen"
 
 [/Lotus/Language/Items/CatbrowCatsEyePreceptDesc]:
-  "Adarza Kavat grants increased critical chance to all nearby Tenno for a short duration."
+  "Adarza Kavat grants |CRIT|% increased critical chance for |DURATION|s to Tenno within |RANGE|m every |COOLDOWN|s."
 
 [/Lotus/Language/Items/CatbrowCatsEyePreceptName]:
   "Cat’s Eye"
 
 [/Lotus/Language/Items/CatbrowDistractPreceptDesc]:
-  "Allows Smeeta Kavat to become invisible while a decoy kavat draws fire by running toward the enemy."
+  "Allows Smeeta Kavat to become invisible for |DURATION|s every |COOLDOWN|s while a decoy kavat draws fire. Decoy has a |EVASION|% chance to evade damage."
 
 [/Lotus/Language/Items/CatbrowDistractPreceptName]:
   "Mischief"
@@ -27216,7 +28059,7 @@
   "Hoard"
 
 [/Lotus/Language/Items/CatbrowLuckPreceptDesc]:
-  "Smeeta Kavat bestows its owner with good fortune during the course of a mission."
+  "Smeeta Kavat has a |CHANCE|% chance every |INTERVAL|s to bestow its owner with good fortune."
 
 [/Lotus/Language/Items/CatbrowLuckPreceptName]:
   "Charm"
@@ -27258,19 +28101,19 @@
   "Pounce"
 
 [/Lotus/Language/Items/CatbrowReflectPreceptDesc]:
-  "Adarza Kavat will occasionally reflect and amplify damage back to an enemy."
+  "Adarza Kavat has a |STAT1|% chance to reflect damage back to an enemy, amplifying it by |STAT2|%."
 
 [/Lotus/Language/Items/CatbrowReflectPreceptName]:
   "Reflect"
 
 [/Lotus/Language/Items/CatbrowRoarPreceptDesc]:
-  "The Kavat unleashes a blood-curdling roar, striking fear into its enemies."
+  "The Kavat unleashes a blood-curdling roar, striking fear into |COUNT| enemies within |RANGE|m for |DURATION|s."
 
 [/Lotus/Language/Items/CatbrowRoarPreceptName]:
   "Roar"
 
 [/Lotus/Language/Items/CatbrowShredPreceptDesc]:
-  "A vicious attack that sunders armour and rends flesh."
+  "A vicious attack dealing |PERCENT|% damage that sunders armour by |ARMOUR|% and rends flesh."
 
 [/Lotus/Language/Items/CatbrowShredPreceptName]:
   "Sharpened Claws"
@@ -27847,6 +28690,9 @@
 [/Lotus/Language/Items/ConclaveSkinNikana]:
   "NIKANA CONCLAVE SKIN"
 
+[/Lotus/Language/Items/ConclaveSkinOpticor]:
+  "OPTICOR CONCLAVE SKIN"
+
 [/Lotus/Language/Items/ConclaveSkinSkana]:
   "SKANA CONCLAVE SKIN"
 
@@ -28200,37 +29046,37 @@
   "STORM HELMET CONVERSION"
 
 [/Lotus/Language/Items/CoolantLeakStoreItemDesc]:
-  "Sentinel has a small freeze aura, slowing incoming enemies."
+  "Sentinel has a |RANGE|m freeze aura, slowing incoming enemies by |SLOW|%."
 
 [/Lotus/Language/Items/CoolantLeakStoreItemName]:
   "Coolant Leak"
 
 [/Lotus/Language/Items/CorpusArenaRewardOneEasy]:
-  "Profit: <CREDITS>1,500"
+  "Profit: <CREDITS>4,000"
 
 [/Lotus/Language/Items/CorpusArenaRewardOneHard]:
-  "Profit: <CREDITS>45,000"
-
-[/Lotus/Language/Items/CorpusArenaRewardOneMedium]:
-  "Profit: <CREDITS>15,000"
-
-[/Lotus/Language/Items/CorpusArenaRewardThreeEasy]:
-  "Profit: <CREDITS>6,000"
-
-[/Lotus/Language/Items/CorpusArenaRewardThreeHard]:
   "Profit: <CREDITS>75,000"
 
-[/Lotus/Language/Items/CorpusArenaRewardThreeMedium]:
+[/Lotus/Language/Items/CorpusArenaRewardOneMedium]:
   "Profit: <CREDITS>35,000"
 
+[/Lotus/Language/Items/CorpusArenaRewardThreeEasy]:
+  "Profit: <CREDITS>15,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardThreeHard]:
+  "Profit: <CREDITS>200,000"
+
+[/Lotus/Language/Items/CorpusArenaRewardThreeMedium]:
+  "Profit: <CREDITS>85,000"
+
 [/Lotus/Language/Items/CorpusArenaRewardTwoEasy]:
-  "Profit: <CREDITS>3,000"
+  "Profit: <CREDITS>8,000"
 
 [/Lotus/Language/Items/CorpusArenaRewardTwoHard]:
-  "Profit: <CREDITS>60,000"
+  "Profit: <CREDITS>135,000"
 
 [/Lotus/Language/Items/CorpusArenaRewardTwoMedium]:
-  "Profit: <CREDITS>25,000"
+  "Profit: <CREDITS>60,000"
 
 [/Lotus/Language/Items/CorpusDazzlePackDesc]:
   "These bold patterns are designed to confuse the optical processing of both robotic and organic enemies."
@@ -28560,7 +29406,7 @@
   "Pick up Crossbow"
 
 [/Lotus/Language/Items/CrowdDispersionStoreItemDesc]:
-  "Unleashes radial stun damage when multiple enemies are nearby."
+  "Unleashes |RANGE|m radial stun when multiple enemies are nearby, dealing |DAMAGE| damage."
 
 [/Lotus/Language/Items/CrowdDispersionStoreItemName]:
   "Crowd Dispersion"
@@ -28696,6 +29542,12 @@
 
 [/Lotus/Language/Items/CutlassPoignardName]:
   "NAMI SKYLA"
+
+[/Lotus/Language/Items/CystDesc]:
+  "[PH] Some kind of infested growth"
+
+[/Lotus/Language/Items/CystName]:
+  "[PH] ????"
 
 [/Lotus/Language/Items/DaedalusArmorSetDesc]:
   "Take your Warframe to the next level with a full set of Daedalus decorative armor."
@@ -29067,7 +29919,7 @@
   "GAZAL COMPLETE COLLECTION"
 
 [/Lotus/Language/Items/DjinnPrimaryPreceptDesc]:
-  "Djinn will attack first visible enemy in range."
+  "Djinn will attack the first visible enemy within |RANGE|m."
 
 [/Lotus/Language/Items/DjinnPrimaryPreceptName]:
   "Thumper"
@@ -29593,6 +30445,12 @@
 [/Lotus/Language/Items/ExcaliburDefaultHelmetDesc]:
   "The standard issue helmet for the Excalibur Warframe."
 
+[/Lotus/Language/Items/ExcaliburDefaultSkin]:
+  "EXCALIBUR SKIN"
+
+[/Lotus/Language/Items/ExcaliburDefaultSkinDesc]:
+  "The standard issue skin for the Excalibur Warframe."
+
 [/Lotus/Language/Items/ExcaliburHelmetMordredName]:
   "EXCALIBUR MORDRED HELMET"
 
@@ -29619,6 +30477,12 @@
 
 [/Lotus/Language/Items/ExcaliburPrimeImmortalSkinName]:
   "EXCALIBUR PRIME IMMORTAL SKIN"
+
+[/Lotus/Language/Items/ExcaliburPrimeSkin]:
+  "EXCALIBUR PRIME SKIN"
+
+[/Lotus/Language/Items/ExcaliburPrimeSkinDesc]:
+  "The standard issue skin for the Excalibur Prime Warframe."
 
 [/Lotus/Language/Items/ExcaliburUmbraHelmetDesc]:
   "The standard issue helmet for the Excalibur Umbra Warframe."
@@ -30171,6 +31035,18 @@
 [/Lotus/Language/Items/FrostDefaultHelmetDesc]:
   "The standard issue helmet for the Frost Warframe."
 
+[/Lotus/Language/Items/FrostDeluxeHelmetDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/Items/FrostDeluxeHelmetName]:
+  "[PH] FROST DELUXE HELMET"
+
+[/Lotus/Language/Items/FrostDeluxeSuitDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/Items/FrostDeluxeSuitName]:
+  "[PH] FROST DELUXE SKIN"
+
 [/Lotus/Language/Items/FrostleafExtract]:
   "FROSTLEAF EXTRACT"
 
@@ -30375,7 +31251,7 @@
   "Extracted from a Ghost Brush."
 
 [/Lotus/Language/Items/GhostStoreItemDesc]:
-  "Cloaks owner when enemies are close. The cloak is disrupted if owner attacks."
+  "Cloaks owner when enemies are within |RANGE|m. The cloak is disrupted if owner attacks."
 
 [/Lotus/Language/Items/GhostStoreItemName]:
   "Ghost"
@@ -30867,6 +31743,12 @@
 [/Lotus/Language/Items/GrnDualFireAxeName]:
   "TWIN BASOLK"
 
+[/Lotus/Language/Items/GrnFlameSpearPart]:
+  "JAVLOK CAPACITOR"
+
+[/Lotus/Language/Items/GrnFlameSpearPartDesc]:
+  "Used in the construction of Javloks"
+
 [/Lotus/Language/Items/GrnGorgSniperRifleDesc]:
   "Mark your targets and then unleash a barrage of bullets, the Buzlok's homing rounds always find the enemy."
 
@@ -31009,7 +31891,7 @@
   "ARCANE MERCY"
 
 [/Lotus/Language/Items/GuardianStoreItemDesc]:
-  "Boosts owner's shield when it runs out."
+  "Boosts owner's shield by |BOOST|% when it runs out."
 
 [/Lotus/Language/Items/GuardianStoreItemName]:
   "Guardian"
@@ -31459,7 +32341,7 @@
   "AKZANI"
 
 [/Lotus/Language/Items/HeadshotStoreItemDesc]:
-  "Sentinel charges a powerful shot and fires at the first enemy in sight."
+  "Sentinel charges a powerful shot and fires at the first enemy within |RANGE|m."
 
 [/Lotus/Language/Items/HeadshotStoreItemName]:
   "Calculated Shot"
@@ -31795,6 +32677,12 @@
 [/Lotus/Language/Items/IncendiaryBuilderName]:
   "Incendiary Builder"
 
+[/Lotus/Language/Items/IndexQuestCreditsFinalReward]:
+  "Profit: <CREDITS>150,000"
+
+[/Lotus/Language/Items/IndexQuestCreditsReward]:
+  "Profit: <CREDITS>20,000"
+
 [/Lotus/Language/Items/IndexTeamANoggleBundleDesc]:
   "[PH] Description"
 
@@ -31840,11 +32728,23 @@
 [/Lotus/Language/Items/InfernoModDesc]:
   "Incendiary Rifle Mod."
 
+[/Lotus/Language/Items/InfestationAgileAnims]:
+  "NIDUS AGILE ANIMATION SET"
+
+[/Lotus/Language/Items/InfestationAgileAnimsDesc]:
+  "The Agile Animation Set for Nidus."
+
 [/Lotus/Language/Items/InfestationEventBadgeDesc]:
   "An emblem awarded to the Tenno who hunted down Alad V."
 
 [/Lotus/Language/Items/InfestationEventBadgeName]:
   "EMBLEM OF THE HUNT"
+
+[/Lotus/Language/Items/InfestationNobleAnims]:
+  "NIDUS NOBLE ANIMATION SET"
+
+[/Lotus/Language/Items/InfestationNobleAnimsDesc]:
+  "The Noble Animation Set for Nidus."
 
 [/Lotus/Language/Items/InfestationSpeedReductionBuffDesc]:
   "Reduces speed of Infested enemies."
@@ -31923,6 +32823,12 @@
 
 [/Lotus/Language/Items/InfestedIrradiatedBaitBallDesc]:
   "Creates 50x Irradiated Pherliac Pods that releases powerful pheromones to attract the Infested."
+
+[/Lotus/Language/Items/InfestedKubrowDesc]:
+  "An Infested pet bread from the Helminth Cyst"
+
+[/Lotus/Language/Items/InfestedKubrowName]:
+  "HELMINTH CHARGER"
 
 [/Lotus/Language/Items/InfestedLexDesc]:
   "Brain-strikes excite this bioweapon, causing it to rapidly release toxic munitions."
@@ -32057,7 +32963,7 @@
   "UDYAT SYANDANA"
 
 [/Lotus/Language/Items/InvestigatorStoreItemDesc]:
-  "Allows the Helios Sentinel to scan objects and enemies it encounters. This consumes codex scanner charges."
+  "Helios Sentinel will scan objects and enemies within |RANGE|m over |DURATION|s. This consumes codex scanner charges."
 
 [/Lotus/Language/Items/InvestigatorStoreItemName]:
   "Investigator"
@@ -32084,7 +32990,7 @@
   "[PH] Throw Glaive desc"
 
 [/Lotus/Language/Items/ItemVacuumStoreItemDesc]:
-  "Increases ammunition capacity and converts ammo pickups into ammo for equipped weapons after a short delay."
+  "Increases ammunition capacity by |CAPACITY|% and converts ammo pickups into ammo for equipped weapons after |DELAY|s."
 
 [/Lotus/Language/Items/ItemVacuumStoreItemName]:
   "Ammo Case"
@@ -32461,13 +33367,19 @@
   "Loyal Companion"
 
 [/Lotus/Language/Items/KubrowChargePreceptDesc]:
-  "The kubrow charges ahead to attack an enemy."
+  "The kubrow charges ahead to attack an enemy, dealing |DAMAGE| damage to all in its path."
 
 [/Lotus/Language/Items/KubrowChargePreceptName]:
   "Hunt"
 
+[/Lotus/Language/Items/KubrowChargerChargePreceptName]:
+  "Helminth Hunt"
+
+[/Lotus/Language/Items/KubrowChargerFinisherModName]:
+  "Helminth Ferocity"
+
 [/Lotus/Language/Items/KubrowCloakPreceptDesc]:
-  "The kubrow cloaks itself and its master to stalk down its prey."
+  "The kubrow cloaks itself and its master to stalk down its prey when they are within |RANGE|m."
 
 [/Lotus/Language/Items/KubrowCloakPreceptName]:
   "Stalk"
@@ -32695,7 +33607,7 @@
   "Dig"
 
 [/Lotus/Language/Items/KubrowDisarmPreceptDesc]:
-  "The kubrow bites the hand of an enemy, causing them to drop their weapon."
+  "The kubrow bites the hand of an enemy within |RANGE|m, causing them to drop their weapon."
 
 [/Lotus/Language/Items/KubrowDisarmPreceptName]:
   "Neutralize"
@@ -32719,7 +33631,7 @@
   "KUBROW ENAMEL GLYPH"
 
 [/Lotus/Language/Items/KubrowFearPreceptDesc]:
-  "The kubrow cries out with a blood-curdling howl that strikes fear into its foes."
+  "The kubrow cries out with a blood-curdling howl that strikes fear into |COUNT| enemies within |RANGE|m for |DURATION|s."
 
 [/Lotus/Language/Items/KubrowFearPreceptName]:
   "Howl"
@@ -32758,7 +33670,7 @@
   "SOOTY KUBROW VARNA GLYPH"
 
 [/Lotus/Language/Items/KubrowLootPreceptDesc]:
-  "The kubrow sniffs out loot hidden in crates and dropped by enemies, retrieving these items for its master."
+  "The kubrow sniffs out loot hidden in crates and dropped by enemies within |RANGE|m, retrieving these items for its master."
 
 [/Lotus/Language/Items/KubrowLootPreceptName]:
   "Retrieve"
@@ -32914,7 +33826,7 @@
   "Shelter"
 
 [/Lotus/Language/Items/KubrowShieldPreceptDesc]:
-  "The kubrow comes to the defense of its master, replenishing their shields."
+  "The kubrow comes to the defense of its master, replenishing their shields by |BOOST|."
 
 [/Lotus/Language/Items/KubrowShieldPreceptName]:
   "Protect"
@@ -32940,7 +33852,7 @@
   "Scavenge"
 
 [/Lotus/Language/Items/KubrowVipChasePreceptDesc]:
-  "The kubrow grapples a VIP target, forcing them to the ground."
+  "The kubrow grapples a VIP target within |RANGE|m, forcing them to the ground."
 
 [/Lotus/Language/Items/KubrowVipChasePreceptName]:
   "Unleashed"
@@ -33413,7 +34325,7 @@
   "SKANA"
 
 [/Lotus/Language/Items/LooterStoreItemDesc]:
-  "Destroys nearby Loot crate."
+  "Destroys Loot crates within |RANGE|m."
 
 [/Lotus/Language/Items/LooterStoreItemName]:
   "Looter"
@@ -35270,7 +36182,7 @@
   "Pistol Ammo Mutation"
 
 [/Lotus/Language/Items/PistolModConvertAmmoDesc]:
-  "Convert unused ammo drops into Pistol Ammo"
+  "Converts unused ammo drops into pistol ammo; |PISTOL_RIFLE| ammo for rifle drops and |SHOTGUN_SNIPER| for shotgun and sniper ammo drops."
 
 [/Lotus/Language/Items/PistolModCorruptedCritDamage]:
   "Hollow Point"
@@ -36539,7 +37451,7 @@
   "ARCANE VENGEANCE"
 
 [/Lotus/Language/Items/RegenStoreItemDesc]:
-  "If Sentinel is killed he will regenerate once."
+  "If Sentinel is killed he will regenerate once to |PERCENT|% max health."
 
 [/Lotus/Language/Items/RegenStoreItemName]:
   "Regen"
@@ -36629,7 +37541,7 @@
   "CHESA KUBROW IMPRINT"
 
 [/Lotus/Language/Items/RevengeStoreItemDesc]:
-  "Sentinel will not attack an enemy unless that enemy has attacked the Sentinel's master."
+  "Sentinel will not attack an enemy unless that enemy has attacked the Sentinel's master within |RANGE|m."
 
 [/Lotus/Language/Items/RevengeStoreItemName]:
   "Revenge"
@@ -36761,7 +37673,7 @@
   "Rifle Ammo Mutation"
 
 [/Lotus/Language/Items/RifleModConvertAmmoDesc]:
-  "Convert unused ammo drops into Rifle Ammo"
+  "Converts unused ammo drops into rifle ammo; |PISTOL_RIFLE| ammo for pistol drops and |SHOTGUN_SNIPER| for shotgun and sniper ammo drops."
 
 [/Lotus/Language/Items/RifleModCorruptedCritRateFireRate]:
   "Critical Delay"
@@ -36991,7 +37903,7 @@
   "SANCTUARY INITIATION KIT"
 
 [/Lotus/Language/Items/SanctuaryStoreItemDesc]:
-  "Creates a shield around the player when they are reviving fallen allies."
+  "Creates a shield with |HEALTH| health around the player when they are reviving fallen allies."
 
 [/Lotus/Language/Items/SanctuaryStoreItemName]:
   "Sanctuary"
@@ -37497,7 +38409,7 @@
   "Shotgun Ammo Mutation"
 
 [/Lotus/Language/Items/ShotgunModConvertAmmoDesc]:
-  "Convert unused ammo drops into Shotgun Ammo"
+  "Converts unused ammo drops into shotgun ammo; |PISTOL_RIFLE| ammo for pistol and rifle drops and |SHOTGUN_SNIPER| for sniper ammo drops."
 
 [/Lotus/Language/Items/ShotgunModCorruptedDamageSpread]:
   "Vicious Spread"
@@ -37682,7 +38594,7 @@
   "Sniper Ammo Mutation"
 
 [/Lotus/Language/Items/SniperModConvertAmmoDesc]:
-  "Convert unused ammo drops into Sniper Ammo"
+  "Converts unused ammo drops into sniper ammo; |PISTOL_RIFLE| ammo for pistol and rifle drops and |SHOTGUN_SNIPER| for shotgun ammo drops."
 
 [/Lotus/Language/Items/SniperModReloadDamage]:
   "Charged Chamber"
@@ -38152,7 +39064,7 @@
   "GALATINE CLAYMIRE SKIN"
 
 [/Lotus/Language/Items/SwiftDethStoreItemDesc]:
-  "Sentinel will attack first visible enemy in range."
+  "Sentinel will attack the first visible enemy within |RANGE|m."
 
 [/Lotus/Language/Items/SwiftDethStoreItemName]:
   "Swift Deth"
@@ -38719,7 +39631,7 @@
   "AXI C1 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionp]:
-  "AXI A2 RELIC"
+  "AXI V5 RELIC"
 
 [/Lotus/Language/Items/t4voidprojectionq]:
   "AXI E1 RELIC"
@@ -38737,7 +39649,7 @@
   "NARAMON LENS"
 
 [/Lotus/Language/Items/TaserStunStoreItemDesc]:
-  "Sentinel continually zaps a nearby enemy, trapping them in a stunned state."
+  "Every |COOLDOWN|s, Sentinel will continually zap an enemy within |BREAK|m, trapping them in a stunned state."
 
 [/Lotus/Language/Items/TaserStunStoreItemName]:
   "Electro Pulse"
@@ -39142,6 +40054,12 @@
 [/Lotus/Language/Items/TonfaStanceADesc]:
   "A style exhibiting sweeping slash attacks and swift jabs."
 
+[/Lotus/Language/Items/TonfaStanceB]:
+  "Soverign Outcast"
+
+[/Lotus/Language/Items/TonfaStanceBDesc]:
+  "An outlandish style with sweeping attacks."
+
 [/Lotus/Language/Items/ToxinInjectorDeviceDesc]:
   "The Grineer are using this machine to poison the local habitat."
 
@@ -39368,7 +40286,7 @@
   "Improves the blast radius of specialized launcher weapons."
 
 [/Lotus/Language/Items/UniversalVacuumDesc]:
-  "Detects and collects items throughout the room for its master, including mods."
+  "Detects and collects items within |RADIUS|m for its master, including mods."
 
 [/Lotus/Language/Items/UniversalVacuumName]:
   "Vacuum"
@@ -39516,6 +40434,12 @@
 
 [/Lotus/Language/Items/UnlockHydroidNobleDesc]:
   "This item lets you use HYDROID's noble animation set with any warframe of your choosing."
+
+[/Lotus/Language/Items/UnlockInfestationAgileDesc]:
+  "This item lets you use NIDUS' agile animation set with any warframe of your choosing."
+
+[/Lotus/Language/Items/UnlockInfestationNobleDesc]:
+  "This item lets you use NIDUS' noble animation set with any warframe of your choosing."
 
 [/Lotus/Language/Items/UnlockJadeAgile]:
   "NYX's Agile Animations"
@@ -39753,10 +40677,19 @@
   "VALKYR HELMET"
 
 [/Lotus/Language/Items/VaporizeStoreItemDesc]:
-  "Sentinel will deal high damage to an enemy that gets too close."
+  "Sentinel will deal |DAMAGE| damage to an enemy within |DISTANCE|m."
 
 [/Lotus/Language/Items/VaporizeStoreItemName]:
   "Vaporize"
+
+[/Lotus/Language/Items/VariantSnowballs]:
+  "SOLSTICE SPHERES"
+
+[/Lotus/Language/Items/VariantSnowballsDesc]:
+  "May contain rocks."
+
+[/Lotus/Language/Items/VariantXmasScythe]:
+  "SOLSTICE SCYTHE"
 
 [/Lotus/Language/Items/VaubanAlternateHelmetDesc]:
   "A uniquely-styled alternate helmet for Vauban."
@@ -40227,7 +41160,7 @@
   "Heavy Impact"
 
 [/Lotus/Language/Items/WarframeModFallingImpactDesc]:
-  "Create seismic shockwaves from heavy landings to knock foes off their feet."
+  "Create |STAT1|m seismic shockwaves from heavy landings, dealing |STAT2| damage and knocking foes off their feet."
 
 [/Lotus/Language/Items/WarframeModFortitude]:
   "Fortitude"
@@ -40293,7 +41226,7 @@
   "Equilibrium"
 
 [/Lotus/Language/Items/WarframeModPickupBonusDesc]:
-  "Health pickups gain additional Energy. Energy pickups gain additional Health."
+  "Health pickups give |val|% Energy. Energy pickups give |val|% Health."
 
 [/Lotus/Language/Items/WarframeModPowerMax]:
   "Flow"
@@ -40464,13 +41397,13 @@
   "VOLT IMMORTAL SKIN"
 
 [/Lotus/Language/Items/WarriorStoreItemDesc]:
-  "Sentinel will attack first visible enemy in range."
+  "Sentinel will attack first visible enemy within |DISTANCE|m."
 
 [/Lotus/Language/Items/WarriorStoreItemName]:
   "Warrior"
 
 [/Lotus/Language/Items/WeaponAnalystStoreItemDesc]:
-  "Causes the Helios Sentinel to attack the first target it sees."
+  "Causes the Helios Sentinel to attack targets within |DISTANCE|m with |GLAIVES| glaives."
 
 [/Lotus/Language/Items/WeaponAnalystStoreItemName]:
   "Targeting Receptor"
@@ -40931,8 +41864,7 @@
   "Your account access has been restricted due to a negative Platinum balance. Please contact support for further details. %s"
 
 [/Lotus/Language/Launcher/LoginFailedNewHardwareDetected]:
-  "Please verify your identity.
-  To ensure the safety of your account, we have just sent you an email with a code to be entered below. This code will expire in 30 minutes."
+  "Please verify your identity. To ensure the safety of your account, we have just sent you an email with a code to be entered below. This code will expire in 30 minutes."
 
 [/Lotus/Language/Launcher/LoginFailedNoConnection]:
   "Login failed. Could not connect to server."
@@ -41100,24 +42032,32 @@
   "Xbox Live features are disabled - an update for the system software is available."
 
 [/Lotus/Language/Launcher/TAB1_DESC]:
-  "Tenno, at the Ready! New changes arrive to Lunaro! Enjoy a new Steel-Meridian Themed Map, featuring a sideways net and mid-field ramps. New gameplay improvements also include a dedicated ‘pass’ button and the ability to protect the Lunaro."
+  "The Grineer Empire grows stronger as friend become foe. What secrets does the Grineer Empire keep? Underpowered, unprepared and forced out of your comfort, you must find it in yourself to overcome new foes to save yourself. Be mindful, as there will be meaningful consequences to your actions.
+  
+  The War Within is available to all Tenno who have completed the Second Dream and have unlocked the Sedna region."
 
 [/Lotus/Language/Launcher/TAB1_TITLE]:
-  "LUNARO IMPROVEMENTS"
+  "NEW CINEMATIC QUEST & NEW GAMEPLAY"
 
 [/Lotus/Language/Launcher/TAB2_DESC]:
-  "Trance your enemies with the mystical powers of Lotus’ newest warrior, Titania. Overwhelm your enemies with swarms of butterflies, mesmerize and distract foes with shiny lures and morph into a deadly, flying fairy."
+  "Disarm your enemies and utilize these new Weapons to your advantage. The Twin Rogga – These twin barrels of destruction are the signature pistols of the Kuva Guardians. The Zarr – Unload a barrage of explosives or a huge shot of flak from this canon’s enormous barrel. The Kesheg – Slice through mobs of unruly enemies with this fierce halberd; the signature weapon of the Kuva Guardians.
+  
+  Decorate your Warframe, Companions and Landing Craft in Kuva-inspired gear."
 
 [/Lotus/Language/Launcher/TAB2_TITLE]:
-  "NEW WARFRAME: TITANIA"
+  "NEW WEAPONS AND CUSTOMIZATIONS"
 
 [/Lotus/Language/Launcher/TAB3_DESC]:
-  "Leave your mark around the Origin System using Glyphs! Unsettle your enemies by placing your mark or simply show off your favourite Warframe.
-  
-  The Tenno Arsenal continues to grow with new, deadly Weapons such as the Sarpa and Pox. Take customization to a whole new level with futuristic and stylish outfits for your Operator as well as an Infested Syandana."
+  "Wearing heavy Armor and adorned in red cloth, the Kuva Guardians are among the fighting elite in the Queen’s army. The Kuva Guardians who surround you and with just a few well-placed blows, bring you to your knees. They are followed around by mischievous and sickly Jester-like creatures that are quick to attack. To defeat them, you'll have to call upon new learnings."
 
 [/Lotus/Language/Launcher/TAB3_TITLE]:
-  "NEW WEAPONS AND CUSTOMIZATIONS"
+  "NEW ENEMIES"
+
+[/Lotus/Language/Launcher/TAB4_DESC]:
+  "The Kuva Fortress hosts the most advanced Grineer fortifications to date. Strangely intricate elements of red and black are displayed proudly throughout the Fortress… décor far more ornate than other Grineer locations. The Fortress is heavily guarded with new and dangerous foes. Watch your step, Tenno."
+
+[/Lotus/Language/Launcher/TAB4_TITLE]:
+  "NEW TILESET"
 
 [/Lotus/Language/Launcher/TDM_Title]:
   "TEAM ANNIHILATION"
@@ -41144,7 +42084,7 @@
   "Update failed!"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE]:
-  "THE WAR WITHIN"
+  "THE GLAST GAMBIT"
 
 [/Lotus/Language/Launcher/UPDATE_TITLE_CY]:
   "Super Power Closed Beta"
@@ -43424,6 +44364,18 @@
 [/Lotus/Language/Melee/TonfaBranchB]:
   "Vagrant Blight"
 
+[/Lotus/Language/Melee/TonfaBranchBA]:
+  "Rogue Edict"
+
+[/Lotus/Language/Melee/TonfaBranchBB]:
+  "Scout Command"
+
+[/Lotus/Language/Melee/TonfaBranchBC]:
+  "Villain Rule"
+
+[/Lotus/Language/Melee/TonfaBranchBDefaults]:
+  "Vagrant Behest"
+
 [/Lotus/Language/Melee/TonfaBranchC]:
   "Blind Tormentor"
 
@@ -43438,6 +44390,9 @@
 
 [/Lotus/Language/Melee/TonfaQuickA]:
   "Biding Grudge"
+
+[/Lotus/Language/Melee/TonfaQuickB]:
+  "Pariah Mandate"
 
 [/Lotus/Language/Melee/TonfaSlideDefaults]:
   "Feuding Blood"
@@ -43536,10 +44491,10 @@
   "[PH] Failed to apply alchemical upgrade."
 
 [/Lotus/Language/Menu/Alchemy_ApplyAlchemicalUpgrade]:
-  "[PH] You sure you want to apply |NAME| to your operator?"
+  "[PH] Apply |NAME| to the Operator?"
 
 [/Lotus/Language/Menu/Alchemy_ApplyAlchemicalUpgradeToItem]:
-  "[PH] You sure you want to apply |NAME| to |ITEM|?"
+  "[PH] Apply |NAME| to |ITEM|?"
 
 [/Lotus/Language/Menu/AlertPopup_Alert]:
   "ALERT"
@@ -43647,7 +44602,7 @@
   "Distill |SKIN|? This item will lose its arcane enhancements and |NUM| |ARCANE|s will be added to your inventory."
 
 [/Lotus/Language/Menu/ArcaneManager_Distill]:
-  "DISTILL ARCANE (|NUM| LEFT)"
+  "DISTILL ARCANE"
 
 [/Lotus/Language/Menu/ArcaneManager_DistillFailed]:
   "Failed to distill arcane. Your account has not been modified."
@@ -43728,11 +44683,14 @@
   "PROFIT CONDITIONS"
 
 [/Lotus/Language/Menu/ArenaGamblingGenericConditions]:
-  "Win Victory
+  "Win 3 Rounds
   Team deposits |NUM| Index Points"
 
 [/Lotus/Language/Menu/ArenaGamblingHint]:
   "<WARNING> MATCH LOSS FORFEITS INVESTMENT AND PROFIT. FAILURE TO COLLECT REQUIRED INDEX POINTS FORFEITS PROFIT ONLY <WARNING>"
+
+[/Lotus/Language/Menu/ArenaGamblingHintQuest]:
+  "<WARNING> MATCH LOSS FORFEITS INVESTMENT AND PROFIT. <WARNING>"
 
 [/Lotus/Language/Menu/ArenaGamblingNegModifiers]:
   "Afflicted with Financial Stress (|NUM|)"
@@ -43749,6 +44707,9 @@
 [/Lotus/Language/Menu/ArenaGamblingTitle]:
   "THE INDEX"
 
+[/Lotus/Language/Menu/ArenaGamblingVictoryOnlyCondition]:
+  "Win 3 Rounds"
+
 [/Lotus/Language/Menu/ArenaInsuffCredits]:
   "You do not have enough <CREDITS> to invest in the selected portfolio"
 
@@ -43757,6 +44718,9 @@
 
 [/Lotus/Language/Menu/ArenaInvestConfirm]:
   "Are you sure you want to invest <CREDITS>|BUYIN| into the Index?"
+
+[/Lotus/Language/Menu/ArenaInvestQuestConfirm]:
+  "Are you sure you want to commit to this wager?"
 
 [/Lotus/Language/Menu/ArenaSelectWager]:
   "PLACE WAGER"
@@ -44248,6 +45212,9 @@
 [/Lotus/Language/Menu/Buy_Revives]:
   "BUY REVIVES"
 
+[/Lotus/Language/Menu/BuyItem_ExceedBinMaxCapacity]:
+  "Buying this slot expansion would exceed the limit for this slots capacity. Max capacity for this slot type is |MAX|."
+
 [/Lotus/Language/Menu/BuyItem_XPNeeded]:
   "The '|ITEM_NAME|' item has a level requirement of |XP_REQUIRED| but you are level |XP_CURRENT|."
 
@@ -44437,6 +45404,9 @@
 [/Lotus/Language/Menu/CephalonFragment_Hint]:
   "Hold |DRAG| to move image. Use |SCALE| to scale."
 
+[/Lotus/Language/Menu/CephalonFragment_NoImagesUnlocked]:
+  "No images unlocked, gain higher mastery ranks to unlock Fan Art to use in picture frames."
+
 [/Lotus/Language/Menu/CephalonFragment_PictureXOffsetSlider]:
   "Horizontal Offset"
 
@@ -44623,9 +45593,6 @@
 [/Lotus/Language/Menu/Chat_KickInProgress]:
   "Previous kick still in progress."
 
-[/Lotus/Language/Menu/Chat_KickSuccess]:
-  "Successfully kicked/banned |NAME|."
-
 [/Lotus/Language/Menu/Chat_KickWarlordFromClanError]:
   "Can't kick/ban Warlords from Clan or Alliance chat."
 
@@ -44783,7 +45750,7 @@
   "DROP SOURCES"
 
 [/Lotus/Language/Menu/Codex_Enemies]:
-  "Enemies"
+  "Factions"
 
 [/Lotus/Language/Menu/Codex_Events]:
   "Events"
@@ -44811,6 +45778,9 @@
 
 [/Lotus/Language/Menu/Codex_QuestMissionTasksTitle]:
   "MISSION TASKS"
+
+[/Lotus/Language/Menu/Codex_QuestPrereqs]:
+  "PREREQUISITES"
 
 [/Lotus/Language/Menu/Codex_QuestRewardTitle]:
   "REWARDS:"
@@ -45086,6 +46056,9 @@
 [/Lotus/Language/Menu/ConfirmSellingInstalledModFusex]:
   "|MOD| is currently installed. Are you sure you want to dissolve it?"
 
+[/Lotus/Language/Menu/ConfirmSellOperation]:
+  "Are you sure you want to sell these items?"
+
 [/Lotus/Language/Menu/ConfirmTransmutingInstalledMod]:
   "|MOD| is currently installed. If you transmute it, it will be lost."
 
@@ -45250,6 +46223,9 @@
 
 [/Lotus/Language/Menu/Cosmetics_HolsterStyle]:
   "HOLSTER STYLE"
+
+[/Lotus/Language/Menu/Cosmetics_Infection]:
+  "[PH] INFESTED GROWTH"
 
 [/Lotus/Language/Menu/Cosmetics_KubrowArmor]:
   "ARMOR"
@@ -46484,6 +47460,24 @@
 [/Lotus/Language/Menu/CraftingComponent_NezhaSystemsName]:
   "NEZHA SYSTEMS"
 
+[/Lotus/Language/Menu/CraftingComponent_NidusChassisDesc]:
+  "Chassis component of the Nidus Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_NidusChassisName]:
+  "NIDUS CHASSIS"
+
+[/Lotus/Language/Menu/CraftingComponent_NidusHelmetDesc]:
+  "Neuroptics component of the Nidus Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_NidusHelmetName]:
+  "NIDUS NEUROPTICS"
+
+[/Lotus/Language/Menu/CraftingComponent_NidusSystemsDesc]:
+  "Systems component of the Nidus Warframe."
+
+[/Lotus/Language/Menu/CraftingComponent_NidusSystemsName]:
+  "NIDUS SYSTEMS"
+
 [/Lotus/Language/Menu/CraftingComponent_NovaChassisDesc]:
   "Chassis component of the Nova Warframe."
 
@@ -47437,6 +48431,11 @@
 [/Lotus/Language/Menu/DetailedPurchase_MirageRecipeHelpText]:
   "Component blueprints are acquired by progressing through the Hidden Messages quest, which is acquired from the Pluto -> Sedna junction."
 
+[/Lotus/Language/Menu/DetailedPurchase_NidusRecipeHelpText]:
+  "The blueprint is acquired by completing The Glast Gambit Quest.
+  
+  Component blueprints are acquired by completing the Purify mission in Eris: Oestrus."
+
 [/Lotus/Language/Menu/DetailedPurchase_PackageCompatNotOwned]:
   "Several items in this package are cosmetics for the following items which you do not own:
   |COMPATIBLES|"
@@ -47994,6 +48993,28 @@
 [/Lotus/Language/Menu/Gambling_BuyIn]:
   "Initial Investment: <CREDITS>|VAL|"
 
+[/Lotus/Language/Menu/Gambling_MatchGeneric]:
+  "MATCH |NUM|"
+
+[/Lotus/Language/Menu/Gambling_QuestGenericBuyIn]:
+  "WAGER <CREDITS> |CREDITS|"
+
+[/Lotus/Language/Menu/Gambling_QuestMatchEBuyIn]:
+  "WAGER <CREDITS> 180,000,
+  ALL OF ERGO's HOLDINGS"
+
+[/Lotus/Language/Menu/Gambling_QuestMatchEPayout]:
+  "NEEWA"
+
+[/Lotus/Language/Menu/Gambling_QuestMatchFBuyIn]:
+  "WAGER OLD WAR RELIC"
+
+[/Lotus/Language/Menu/Gambling_QuestMatchFPayout]:
+  "NEEWA, ALL OF ERGO'S HOLDINGS, <CREDITS> 150,000"
+
+[/Lotus/Language/Menu/Gambling_QuestPayoutCaptives]:
+  "|NUM| CAPTIVE MYCONIANS, <CREDITS> |CREDITS|"
+
 [/Lotus/Language/Menu/Gambling_WagerDesc]:
   "[PH] A chance to win |VAL| Corpus Chips! Gain a personal score of |GOAL| Points and emerge victorious to win the bet."
 
@@ -48092,6 +49113,15 @@
 
 [/Lotus/Language/Menu/GeneticLab]:
   "INCUBATOR"
+
+[/Lotus/Language/Menu/GeneticLab_InfestKubrowConfirm]:
+  "Use Helminth Cyst in Kubrow incubation? Cyst will be drained in the process."
+
+[/Lotus/Language/Menu/GeneticLab_InfestKubrowLabel]:
+  "DRAIN"
+
+[/Lotus/Language/Menu/GeneticLab_InfestKubrowTopTitle]:
+  "HELMINTH CYST"
 
 [/Lotus/Language/Menu/GeneticLabDescription]:
   "BREED NEW LIFE"
@@ -48195,6 +49225,9 @@
 
 [/Lotus/Language/Menu/GiftFail_ArchwingNotEnabled]:
   "|PLAYER_NAME| cannot receive Archwing items until they complete the Archwing Quest."
+
+[/Lotus/Language/Menu/GiftFail_ExceedBinCapacity]:
+  "Gifting the given slot expansion would cause |PLAYER_NAME| to exceed the limit for that slots capacity."
 
 [/Lotus/Language/Menu/GiftFail_GifterBanned]:
   "Your gifting privileges have been revoked, you may not send gifts."
@@ -48316,6 +49349,9 @@
 
 [/Lotus/Language/Menu/Global_DurabilityPermanent]:
   "Permanent"
+
+[/Lotus/Language/Menu/Global_EnemyName]:
+  "NAME"
 
 [/Lotus/Language/Menu/Global_FormattedRankCaps]:
   "RANK |RANK|"
@@ -48775,7 +49811,7 @@
   "Power D"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_4]:
-  "Power E"
+  "Focus and Transference"
 
 [/Lotus/Language/Menu/Input_ACTIVATE_ABILITY_MENU_0]:
   "Power A (Power Menu)"
@@ -48922,7 +49958,7 @@
   "Sprint/Roll"
 
 [/Lotus/Language/Menu/Input_PRESS_GAMEPAD]:
-  "Power E"
+  "Inspect and Activate Selected Power"
 
 [/Lotus/Language/Menu/Input_PREV_INV]:
   "Equip Melee"
@@ -49304,6 +50340,12 @@
 
 [/Lotus/Language/Menu/ItemInventory_SlotsMisc]:
   "ITEM SLOTS"
+
+[/Lotus/Language/Menu/ItemInventory_SlotsRandomMod]:
+  "RIVEN MOD SLOTS"
+
+[/Lotus/Language/Menu/ItemInventory_SlotsRandomModDescription]:
+  "Increases Riven Mod capacity by three."
 
 [/Lotus/Language/Menu/ItemInventory_SlotsSentinel]:
   "SENTINEL SLOTS"
@@ -50370,6 +51412,9 @@
 
 [/Lotus/Language/Menu/Mailbox_Inbox]:
   "INBOX"
+
+[/Lotus/Language/Menu/Mailbox_ModPackNotification]:
+  "You have received the following mod packs."
 
 [/Lotus/Language/Menu/Mailbox_NewMessagesNotification]:
   "You have |count| unread messages in your mailbox."
@@ -51488,7 +52533,10 @@
   "ASK ME LATER"
 
 [/Lotus/Language/Menu/OmegaLimit_CancelConfirm]:
-  "You won't be able to play sorties while you are above the Riven mod capacity limit. Returning to the Liset from a mission or exiting the mod station will reopen this screen. Continue?"
+  "You won't be able to play sorties while you are above the Riven mod capacity limit. Returning to the Landing Craft from a mission or exiting the mod station will reopen this screen. Continue?"
+
+[/Lotus/Language/Menu/OmegaLimit_PurchaseSlots]:
+  "PURCHASE CAPACITY"
 
 [/Lotus/Language/Menu/OmegaLimit_RestrictSortie]:
   "You must be under the Riven mod capacity limit to play sorties."
@@ -51760,8 +52808,8 @@
 [/Lotus/Language/Menu/Options_Display_Antialiasing_SMAA]:
   "SMAA (Medium)"
 
-[/Lotus/Language/Menu/Options_Display_Antialiasing_SMAA_TEMPORAL]:
-  "SMAA+Temporal (Preview)"
+[/Lotus/Language/Menu/Options_Display_Antialiasing_TAA_Sharpen_Tip]:
+  "Sharpen image after Temporal antialiasing"
 
 [/Lotus/Language/Menu/Options_Display_Antialiasing_TEMPORAL]:
   "TAA 8X (HIGH)"
@@ -51899,6 +52947,9 @@
 
 [/Lotus/Language/Menu/Options_Display_Subtitles]:
   "Show Subtitles"
+
+[/Lotus/Language/Menu/Options_Display_TAA_Sharpen]:
+  "TAA Sharpen"
 
 [/Lotus/Language/Menu/Options_Display_Tessellation]:
   "Runtime Tessellation"
@@ -53027,6 +54078,12 @@
 [/Lotus/Language/Menu/PutInStasisDistillingImprintError]:
   "Cannot put a Kubrow in stasis that is having its imprint distilled. You can rush/claim said imprint in the GENETIC TOOLS submenu."
 
+[/Lotus/Language/Menu/PveGreedMatchDraw]:
+  "DRAW! TIE GOES TO THE HOUSE"
+
+[/Lotus/Language/Menu/PveGreedRoundStarting]:
+  "Elimination Round |val| of 3 Starting..."
+
 [/Lotus/Language/Menu/PVP_TrainingModeChoice]:
   "Recruit Conditioning allows you to fight amongst Tenno who are also beginning their Conclave journey. The mode is limited to those with a Conclave rank of up to 2 and all rare mods are disabled.
   Do you wish to enable Recruit Conditioning?"
@@ -53096,6 +54153,9 @@
 
 [/Lotus/Language/Menu/PvpLostRound]:
   "You lost this round..."
+
+[/Lotus/Language/Menu/PVPLunaroAlternativeModeDesc]:
+  "Learn the basics of Lunaro."
 
 [/Lotus/Language/Menu/PvpMapVoteHint]:
   "VOTE FOR NEXT MAP"
@@ -53189,6 +54249,9 @@
 
 [/Lotus/Language/Menu/PVPTDMAlternativeModeName]:
   "VARIANT"
+
+[/Lotus/Language/Menu/PVPTDMXmasModeDesc]:
+  "[PH] An infinite supply of snowballs and a candy cane wielded as a weapon. Tis the season."
 
 [/Lotus/Language/Menu/PvpTeam1]:
   "SUN"
@@ -53312,6 +54375,9 @@
 
 [/Lotus/Language/Menu/RaidNeedsMorePlayers]:
   "|PLAYERS| MORE PLAYERS NEEDED"
+
+[/Lotus/Language/Menu/RaidReadyLabel]:
+  "READY <CHECKMARK>"
 
 [/Lotus/Language/Menu/RaidSetNotReady]:
   "NOT READY"
@@ -53462,6 +54528,9 @@
 
 [/Lotus/Language/Menu/REROLL_CantReroll]:
   "[PH] TASK NOT COMPELTED"
+
+[/Lotus/Language/Menu/REROLL_CommittedServerError]:
+  "Riven reroll selection could not be confirmed. Please reload the game to try again."
 
 [/Lotus/Language/Menu/REROLL_Confirm]:
   "Are you sure you want to cycle |MOD| for <KUVA> |PRICE|?"
@@ -54110,6 +55179,12 @@
 [/Lotus/Language/Menu/SocialOverlay_ClanManagement]:
   "CLAN MANAGEMENT"
 
+[/Lotus/Language/Menu/SocialOverlay_ClanOnlyOff]:
+  "Clan Only: Off"
+
+[/Lotus/Language/Menu/SocialOverlay_ClanOnlyOn]:
+  "Clan Only: On"
+
 [/Lotus/Language/Menu/SocialOverlay_ClanStatistics]:
   "CLAN STATISTICS"
 
@@ -54434,6 +55509,9 @@
 [/Lotus/Language/Menu/SortBy_Count]:
   "COUNT"
 
+[/Lotus/Language/Menu/SortBy_FormaCount]:
+  "FORMA COUNT"
+
 [/Lotus/Language/Menu/SortBy_LastLoggedOn]:
   "LAST LOGGED ON"
 
@@ -54466,6 +55544,9 @@
 
 [/Lotus/Language/Menu/SortBy_Type]:
   "TYPE"
+
+[/Lotus/Language/Menu/SortBy_Usage]:
+  "USAGE"
 
 [/Lotus/Language/Menu/SortBy_Used]:
   "USED"
@@ -55570,6 +56651,9 @@
 [/Lotus/Language/Menu/Upgrade_LongGunSentinelWeaponForbidden]:
   "Cannot use a mod with PRIMARY WEAPON and SENTINEL WEAPON simultaneously."
 
+[/Lotus/Language/Menu/Upgrade_LvlUpgrades]:
+  "RANK BONUSES"
+
 [/Lotus/Language/Menu/Upgrade_PermanentAbbrev]:
   "Perm"
 
@@ -55638,6 +56722,16 @@
 
 [/Lotus/Language/Menu/ViewPlayers_Rank]:
   "RANK: %i"
+
+[/Lotus/Language/Menu/VoidProjectionItemsMessage]:
+  "Operator,
+  
+  Items were dropped during your extraction and have been retrieved for you.
+  
+  Diagnostic repairs are now underway. Ordis is certain this probably won't happen again."
+
+[/Lotus/Language/Menu/VoidProjectionItemsSubject]:
+  "Items Recovered"
 
 [/Lotus/Language/Menu/VoidProjectionQuality_Bronze]:
   "INTACT"
@@ -56331,6 +57425,12 @@
 [/Lotus/Language/Mods/FireRateWhileAimingShotgunMod]:
   "Repeater Clip"
 
+[/Lotus/Language/Mods/FluxRifleCorpusArenaMod]:
+  "Flux Overdrive"
+
+[/Lotus/Language/Mods/FluxRifleCorpusArenaModDesc]:
+  "Status Chance fluctuates between +|MIN|% and +|MAX|% over 5 seconds while the beam is fired."
+
 [/Lotus/Language/Mods/FrostPrimeBoostMod]:
   "Teshin's Prime Writ: Frost"
 
@@ -56604,6 +57704,12 @@
 [/Lotus/Language/Mods/PassiveReloadShotgunMod]:
   "Lock and Load"
 
+[/Lotus/Language/Mods/PentaCorpusArenaMod]:
+  "Tether Grenades"
+
+[/Lotus/Language/Mods/PentaCorpusArenaModDesc]:
+  "Grenades tether up to |VAL| enemies from |RANGE|m away."
+
 [/Lotus/Language/Mods/PrimedRifleModFreezeDamage]:
   "Primed Cryo Rounds"
 
@@ -56642,6 +57748,9 @@
 
 [/Lotus/Language/Mods/ReducedImpairDuration]:
   "Poise"
+
+[/Lotus/Language/Mods/ReducedImpairDurationDesc]:
+  "|val|% Impair Duration on Self"
 
 [/Lotus/Language/Mods/ReduceShieldRechargeDelayWarframe]:
   "Quick Charge"
@@ -57077,6 +58186,27 @@
 
 [/Lotus/Language/Objectives/Capture]:
   "Capture the target."
+
+[/Lotus/Language/Objectives/ColonyMissionDoorProgress]:
+  "DOOR PROGRESS"
+
+[/Lotus/Language/Objectives/ColonyMissionDoorsClosed]:
+  "DOORS CLOSED"
+
+[/Lotus/Language/Objectives/ColonyMissionDoorsClosingMessage]:
+  "Doors Closing"
+
+[/Lotus/Language/Objectives/ColonyMissionDoorsCompleteMessage]:
+  "Doors Closed!"
+
+[/Lotus/Language/Objectives/ColonyMissionDoorsStalledMessage]:
+  "Doors Stalled!"
+
+[/Lotus/Language/Objectives/ColonyMissionNpcsRemaining]:
+  "HUNTERS ALIVE"
+
+[/Lotus/Language/Objectives/ColonyMissionSpawnPods]:
+  "SPAWN PODS"
 
 [/Lotus/Language/Objectives/CoreSabotageBlastDoorHack]:
   "HACK BLAST DOOR"
@@ -57673,13 +58803,13 @@
   "MR |LEVEL|"
 
 [/Lotus/Language/Omega/OmegaMeleeMod]:
-  "[PH] Melee Omega Mod"
+  "Melee Riven Mod"
 
 [/Lotus/Language/Omega/OmegaNumRerolls]:
   "<RESET>|REROLLS|"
 
 [/Lotus/Language/Omega/OmegaPistolMod]:
-  "[PH] Pistol Omega Mod"
+  "Pistol Riven Mod"
 
 [/Lotus/Language/Omega/OmegaPrefixSeparator]:
   "-"
@@ -57697,7 +58827,7 @@
   "[PH] Sentinel Omega Mod"
 
 [/Lotus/Language/Omega/OmegaShotgunMod]:
-  "[PH] Shotgun Omega Mod"
+  "Shotgun Riven Mod"
 
 [/Lotus/Language/Omega/OmegaUnidentified]:
   "VEILED"
@@ -58037,6 +59167,12 @@
 
 [/Lotus/Language/Primes/PassiveAbilityNezhaPrime]:
   "Slide faster and go further."
+
+[/Lotus/Language/Primes/PrimeAkLexDesc]:
+  "Savage the enemy with a Lex Prime in each hand."
+
+[/Lotus/Language/Primes/PrimeAkLexName]:
+  "AKLEX PRIME"
 
 [/Lotus/Language/Primes/PrimeAkstilettoDesc]:
   "Stylish, discreet and accurate, perfect for the Tenno of distinction."
@@ -59310,6 +60446,9 @@
 [/Lotus/Language/Ranks/MaxRank]:
   "MAX RANK"
 
+[/Lotus/Language/Ranks/MaxRankAbbreviated]:
+  "[MAX]"
+
 [/Lotus/Language/Ranks/Rank0]:
   "UNRANKED"
 
@@ -59928,7 +61067,7 @@
   "|TARGET| SYNTHESIS"
 
 [/Lotus/Language/Scans/GftPlantRuksClawMatureDesc]:
-  "This plant was introduced to arid regions across the Origin system, for its ability to collect moisture in harsh environments."
+  "This plant was introduced to arid regions across the Origin System, for its ability to collect moisture in harsh environments."
 
 [/Lotus/Language/Scans/GftPlantRuksClawMatureName]:
   "RUK'S CLAW"
@@ -60263,6 +61402,45 @@
 [/Lotus/Language/Seasonal/Winter2016GlyphDName]:
   "SOLSTICE GLYPH IV"
 
+[/Lotus/Language/Seasonal/Winter2016SigilName]:
+  "SOLSTICE SIGIL"
+
+[/Lotus/Language/Seasonal/Winter2016TDMVariantBadgeDesc]:
+  "A festive Conclave emblem."
+
+[/Lotus/Language/Seasonal/Winter2016TDMVariantBadgeName]:
+  "SOLSTICE CONCLAVE EMBLEM"
+
+[/Lotus/Language/Seasonal/Winter2016TDMVariantGlyphName]:
+  "SOLSTICE CONCLAVE GLYPH"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphAName]:
+  "WINTER GLYPH I"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphBName]:
+  "WINTER GLYPH II"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphCName]:
+  "WINTER GLYPH III"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphDName]:
+  "WINTER GLYPH IV"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphEName]:
+  "WINTER GLYPH V"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphFName]:
+  "WINTER GLYPH VI"
+
+[/Lotus/Language/Seasonal/WinterB2016GlyphGName]:
+  "WINTER GLYPH VII"
+
+[/Lotus/Language/Seasonal/WinterGlyphBundleBDesc]:
+  "A collection of winter themed glyphs."
+
+[/Lotus/Language/Seasonal/WinterGlyphBundleBName]:
+  "WINTER GLYPH PACK"
+
 [/Lotus/Language/Seasonal/WinterGlyphBundleDesc]:
   "A collection of festive glyphs."
 
@@ -60272,11 +61450,14 @@
 [/Lotus/Language/Seasonal/WinterGlyphDesc]:
   "A festive glyph."
 
+[/Lotus/Language/Seasonal/WinterSigilDesc]:
+  "A festive sigil."
+
 [/Lotus/Language/Seasonal/WinterSolsticeSalixDesc]:
   "A Salix Syandana adorned with a festive design."
 
 [/Lotus/Language/Seasonal/WinterSolsticeSalixName]:
-  "SOLSTICE SALIX"
+  "SOLSTICE SALIX SYANDANA"
 
 [/Lotus/Language/Seasonal/XmasCatbrowSkinDesc]:
   "A festive fur pattern for a Kavat"
@@ -60550,6 +61731,78 @@
 
 [/Lotus/Language/ShipDecorations/BobbleheadCCTeamAZanukaName]:
   "NOGGLE STATUE - LOCKJAW & SOL"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBDisruptorDesc]:
+  "A small wobbly statue of Jad Teran."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBDisruptorName]:
+  "NOGGLE STATUE - JAD TERAN"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBHyenaDesc]:
+  "A small wobbly statue of Azoth."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBHyenaName]:
+  "NOGGLE STATUE - AZOTH"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBRaptorDesc]:
+  "A small wobbly statue of the Raptor RX."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBRaptorName]:
+  "NOGGLE STATUE - RAPTOR RX"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBRiotMoaDesc]:
+  "A small wobbly statue of the Auditor Bursa."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamBRiotMoaName]:
+  "NOGGLE STATUE - AUDITOR"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCDeceptionDesc]:
+  "A small wobbly statue of Jen Dro."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCDeceptionName]:
+  "NOGGLE STATUE - JEN DRO"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCHackerDesc]:
+  "A small wobbly statue of Derim Zahn."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCHackerName]:
+  "NOGGLE STATUE - DERIM ZAHN"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCMoaDesc]:
+  "A small wobbly statue of M-WAM."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCMoaName]:
+  "NOGGLE STATUE - M-WAM"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCStealthDesc]:
+  "A small wobbly statue of Tia Mayn."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamCStealthName]:
+  "NOGGLE STATUE - TIA MAYN"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDBusterADesc]:
+  "A small wobbly statue of Armis Ulta."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDBusterAName]:
+  "NOGGLE STATUE - ARMIS ULTA"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDBusterBDesc]:
+  "A small wobbly statue of Dru Pesfor."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDBusterBName]:
+  "NOGGLE STATUE - DRU PESFOR"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDBusterCDesc]:
+  "A small wobbly statue of Rana Del."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDBusterCName]:
+  "NOGGLE STATUE - RANA DEL"
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDOspreyDesc]:
+  "A small wobbly statue of 002-ER."
+
+[/Lotus/Language/ShipDecorations/BobbleheadCCTeamDOspreyName]:
+  "NOGGLE STATUE - 002-ER"
 
 [/Lotus/Language/ShipDecorations/BobbleheadClemDesc]:
   "A small wobbly statue of Clem."
@@ -60827,6 +62080,18 @@
 [/Lotus/Language/ShipDecorations/BobbleheadZephyrName]:
   "NOGGLE STATUE - ZEPHYR"
 
+[/Lotus/Language/ShipDecorations/ConclaveOroMoonOrnament]:
+  "[PH]CONCLAVE MOON ORO ORNAMENT"
+
+[/Lotus/Language/ShipDecorations/ConclaveOroOrnament]:
+  "[PH]CONCLAVE ORO ORNAMENT"
+
+[/Lotus/Language/ShipDecorations/ConclaveOroOrnamentDesc]:
+  "[PH]An ornament alive with energy from the Conclave"
+
+[/Lotus/Language/ShipDecorations/ConclaveOroSunOrnament]:
+  "[PH]CONCLAVE SUN ORO ORNAMENT"
+
 [/Lotus/Language/ShipDecorations/DisplayResourceContainerAlloyPlate]:
   "ALLOY DRUM DECORATION"
 
@@ -61021,6 +62286,54 @@
 
 [/Lotus/Language/ShipDecorations/IndexAutographName]:
   "[PH] EMPLOYEE OF THE MONTH"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingA]:
+  "NEEWA'S DRAWING: The Dark-Eyed Man"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingADesc]:
+  "A drawing by Neewa."
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingB]:
+  "NEEWA'S DRAWING: Prison"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingBase]:
+  "INDEX CHILD DRAWING"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingBaseDesc]:
+  "A drawing by Neewa."
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingBDesc]:
+  "A drawing by Neewa."
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingC]:
+  "NEEWA'S DRAWING: Mumblers"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingCDesc]:
+  "A drawing by Neewa."
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingD]:
+  "NEEWA'S DRAWING: The Passing"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingDDesc]:
+  "A drawing by Neewa."
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingE]:
+  "NEEWA'S DRAWING: The Relay"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingEDesc]:
+  "A drawing by Neewa."
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingF]:
+  "NEEWA'S DRAWING: Reunited"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingFDesc]:
+  "A drawing by Neewa."
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingG]:
+  "NEEWA'S DRAWING: My decision"
+
+[/Lotus/Language/ShipDecorations/IndexChildDrawingGDesc]:
+  "A drawing by Neewa."
 
 [/Lotus/Language/ShipDecorations/InsectShipSkinGrineerQueensName]:
   "MANTIS KUVA SKIN"
@@ -61252,6 +62565,18 @@
 
 [/Lotus/Language/Sigils/ClanSigilTwoToneName]:
   "GLYPHED CLAN SIGIL"
+
+[/Lotus/Language/Sigils/Cny2016RoosterCYDesc]:
+  "New Year commemorative badge of a Golden Rooster"
+
+[/Lotus/Language/Sigils/Cny2016RoosterCYName]:
+  "Year of The Rooster Sigil"
+
+[/Lotus/Language/Sigils/Cny2016RoosterPWDesc]:
+  "Celebrate 2017 Chinese Rooster Year, a symbol of our glory"
+
+[/Lotus/Language/Sigils/Cny2016RoosterPWName]:
+  "Phoenix Coronet Sigil"
 
 [/Lotus/Language/Sigils/CollectorSigilName]:
   "CEPHALON SIMARIS SIGIL"
@@ -62694,6 +64019,14 @@
 [/Lotus/Language/SpaceSuits/StealthArchwingName]:
   "ITZAL"
 
+[/Lotus/Language/SteamWorkshop/FrostEmperorArmArmorDesc]:
+  "A unique armor for the Frost Warframe, designed by Hitsu San
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/FrostEmperorArmArmorName]:
+  "FROST EMPEROR ARMOR"
+
 [/Lotus/Language/SteamWorkshop/FrostGrostArmArmorDesc]:
   "A unique armor for the Frost Warframe, designed by Faven_PS
   
@@ -63231,6 +64564,118 @@
 
 [/Lotus/Language/SteamWorkshop/SWRFourZephyrMigisiHelmetName]:
   "ZEPHYR MISIGI HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAshCarabidHelmetDesc]:
+  "A helmet for the Ash Warframe, designed by artarrwen
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAshCarabidHelmetName]:
+  "ASH CARABID HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAtlasTelamonHelmetDesc]:
+  "A helmet for the Atlas Warframe, designed by artarrwen
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixAtlasTelamonHelmetName]:
+  "ATLAS TELAMON HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixBansheeEchoHelmetDesc]:
+  "A helmet for the Banshee Warframe, designed by Rekkou
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixBansheeEchoHelmetName]:
+  "BANSHEE ECHO HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixChromaVojnikSkinDesc]:
+  "A unique skin for the Chroma Warframe, designed by Volkovyi
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixChromaVojnikSkinName]:
+  "CHROMA VOJNIK SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxHelmetDesc]:
+  "A helmet for the Ember Warframe, designed by Faven_PS
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxHelmetName]:
+  "EMBER GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxSkinDesc]:
+  "A unique skin for the Ember Warframe, designed by Faven_PS
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixEmberGraxxSkinName]:
+  "EMBER GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorHelmetDesc]:
+  "A helmet for the Frost Warframe, designed by Hitsu San
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorHelmetName]:
+  "FROST EMPEROR HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorSkinDesc]:
+  "A unique skin for the Frost Warframe, designed by Hitsu San
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixFrostEmperorSkinName]:
+  "FROST EMPEROR SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxHelmetDesc]:
+  "A helmet for the Nyx Warframe, designed by Faven_PS
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxHelmetName]:
+  "NYX GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxSkinDesc]:
+  "A unique skin for the Nyx Warframe, designed by Faven_PS
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixNyxGraxxSkinName]:
+  "NYX GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSariScarfDesc]:
+  "A syandana for your Warframe, designed by malayu
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSariScarfName]:
+  "SARI SYANDANA"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxHelmetDesc]:
+  "A helmet for the Saryn Warframe, designed by Faven_PS
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxHelmetName]:
+  "SARYN GRAXX HELMET"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxSkinDesc]:
+  "A unique skin for the Saryn Warframe, designed by Faven_PS
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSarynGraxxSkinName]:
+  "SARYN GRAXX SKIN"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSpitefireScarfDesc]:
+  "A syandana for your Warframe, designed by Faven_PS
+  
+  <UGC> TennoGen"
+
+[/Lotus/Language/SteamWorkshop/SWRSixSpitefireScarfName]:
+  "SPITEFIRE GRAXX SYANDANA"
 
 [/Lotus/Language/Subtitles/CephalonFragments/DMemoryOne0010Ordis]:
   "[1] I have hidden the truth of my existence… from the Operator… from myself. Take it from me, knowing is hell. Stop now. You will want to laugh, you will want to scream."
@@ -64395,9 +65840,6 @@
 
 [/Lotus/Language/Subtitles/Events/DTICrowd1200Sark]:
   "Lots of investors on the floor today."
-
-[/Lotus/Language/Subtitles/Events/DTICrowd1210Sark]:
-  "Nef Anyo would like to welcome Padovan colony to The Index."
 
 [/Lotus/Language/Subtitles/Events/DTICrowd1220NefAnyo]:
   "Investors, welcome to The Index. May the Void bless your precious credits."
@@ -67673,6 +69115,75 @@
 [/Lotus/Language/Subtitles/MissionObjectives/DObComplete0110Lotus]:
   "Mission accomplished, proceed to your landing craft."
 
+[/Lotus/Language/Subtitles/MissionObjectives/DPDArmorLow0240Lotus]:
+  "Your armor is degrading. Put serum in that medstation to cleanse yourself."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDArmorLow0250Lotus]:
+  "Filling that medstation with serum will halt your health and armor from degrading. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDConsoleDeg0100Lotus]:
+  "Without help from the Vaporizers the Pox will continue to erode these consoles."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDConsoleDeg0110Lotus]:
+  "I will not be able to access these systems if the consoles degrade much further."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDExterminate0150Lotus]:
+  "I have the manifest. Wipe out the remaining Infested."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDExterminate0160Lotus]:
+  "I'm finished. You must clear the area of Infested before we can continue."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDFirstRound0030Lotus]:
+  "These consoles have been compromised by a fast growing Infested pox. Use the Vaporizers to kill the pox and I will access the consoles."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDFirstRound0040Lotus]:
+  "There's pox everywhere on these consoles and it's corrupted the manifests. Do you see any Vaporizer units near by? Use those to temporarily kill off the pox."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDMilestones0120Lotus]:
+  "I've reconstructed half the manifest."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDMilestones0130Lotus]:
+  "I have almost finished reconstructing the manifest. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDMilestones0140Lotus]:
+  "Keep fighting. I'm still working on this manifest."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDNewRound0190Lotus]:
+  "Here we go again. Get those Vaporizers working."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDNewRound0200Lotus]:
+  "Let's reconstruct the next manifest. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDNewRound0210Lotus]:
+  "Get ready. We're going reconstruct another manifest."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDObjective0010Lotus]:
+  "This desolate Corpus research vessel conceals a rich cache of supplies. To locate them, I will reconstruct the ship's corrupted shipping manifests."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDObjective0020Lotus]:
+  "The crew of this ship fell victim to the very Infestation they were researching. We're here to recover their extensive supplies. Find the consoles that contain the shipping manifests."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDRoundEnd0170Lotus]:
+  "This is what was in the manifest. There's more where that came from, do you want to keep fighting?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDRoundEnd0180Lotus]:
+  "Success. Do you want to attempt to reconstruct another manifest?"
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumInstruct0050Lotus]:
+  "Tenno, these Infested hold the serum we need."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumInstruct0060Lotus]:
+  "The Infested, they're dropping the serum we need for the Vaporizers."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumInstruct0070Lotus]:
+  "Those Infested must have taken that serum from the researchers on this ship. "
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumPickup0080Lotus]:
+  "You picked up serum, now put it in a Vaporizer."
+
+[/Lotus/Language/Subtitles/MissionObjectives/DPDSerumPickup0090Lotus]:
+  "Put that serum in a Vaporizer."
+
 [/Lotus/Language/Subtitles/MissionObjectives/DPortalAnnounceCache030Lotus]:
   "I've detected three resource caches on this vessel but Void interference is masking their location. You must decide if finding these caches is worth the added risk."
 
@@ -69235,6 +70746,81 @@
 
 [/Lotus/Language/Subtitles/PlayerShip/DInbox193Ordis]:
   "Unread inbox messages make me ill."
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0090Helminth]:
+  "(Master.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0100Helminth]:
+  "(We… breathe for you. Bleed for you. Feed for you.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0110Helminth]:
+  "(All that lives is coiled within us. We will consume, Master, if you wish it.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0120Helminth]:
+  "(Feed me… Master.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0130Helminth]:
+  "(The Meridians awake. The vital pentatonic.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0140Helminth]:
+  "(I am weak, Master.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0150Helminth]:
+  "(We are life, Master. But also death.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0160Helminth]:
+  "(Living substances is our domain. How will we serve you.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0170Helminth]:
+  "(We are as one.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0180Helminth]:
+  "(Master, only my voice has returned.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0190Helminth]:
+  "(Forgive me, my sting, Master.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedAwake0200Helminth]:
+  "(We germinate, for the Master… within the Master.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedDormant0010Ordis]:
+  "Disgusting, is it not Operator? Ordis would enjoying purging this… uh cleaning this room but sadly this… vile mass serves you and your Warframes. A necessary evil."
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedDormant0020Ordis]:
+  "Ordis cannot remember, but there does seem to be a… relationship… between your Warframes and the Infestation. I would be careful in here, Operator. Domesticated or not, Ordis does not trust this thing."
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedDormant0030Ordis]:
+  "Vile. Putrid. This… 'thing'... is responsible for biological functions of the Orbiter. A strange design. Why would I be built with such a flaw?"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedDormant0040Ordis]:
+  "A strange biological archive here. I cannot explain it Operator, as you know I have sustained memory system damage. Ordis recommends leaving at once and welding the door shut."
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedEasterEgg0210Helminth]:
+  "(The demon is awake? How?)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedEasterEgg0220Helminth]:
+  "(We fear nothing but the Void demon.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedEasterEgg0230Helminth]:
+  "(Light shines within this demon.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedEasterEgg0240Helminth]:
+  "(Shadows grow within this demon.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedEasterEgg0250Helminth]:
+  "(This demon walks the shadow's edge.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedInjector0050Ordis]:
+  "Operator?! No! Have you lost your mind?!"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedInjector0060Helminth]:
+  "(We awaken, Master.)"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedInjector0070Ordis]:
+  "What was that? Is it... talking? What did it say?"
+
+[/Lotus/Language/Subtitles/PlayerShip/DInfestedInjector0080Helminth]:
+  "(I wish to serve, yet I am weak. Time heals the mind.)"
 
 [/Lotus/Language/Subtitles/PlayerShip/DInvasionUpdate290Lotus]:
   "The system continues to fall into chaos. Check navigation for active invasions."
@@ -71158,6 +72744,183 @@
 [/Lotus/Language/Subtitles/Quests/DIIQShipMod210Ordis]:
   "You must install that new mod before you can attempt your next objective. Proceed to the Arsenal at once."
 
+[/Lotus/Language/Subtitles/Quests/DIndexMatchFive0680NefAnyo]:
+  "Your winning streak stops here. The Index is mine, after all."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchFive0690ErgoGlast]:
+  "What is this? What's going on!?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchFive0700ErgoGlast]:
+  "Anyo! Swear on the Void that you're not cheating!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchFive0710NefAnyo]:
+  "My Dear Glast, I assure you I have no idea what you're talking about."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchFive0720Lotus]:
+  "Keep fighting, Tenno. I am investigating the source of these 'anomalies.'"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchFive0730NefAnyo]:
+  "Glast, it looks like your crack team of brokers just cracked under pressure. Now I'm in the black, and you're facing financial ruin. A deserving end for your contempt of the Corpus way of life. They made you what you are. You deserve bankruptcy!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0240NefAnyo]:
+  "By the Void, Ergo Glast? I thought you hated my Index?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0250ErgoGlast]:
+  "Yes well, since you've refused our generous offer for their return, we've come to play the odds and win back the souls you stole. Tell me, are you feeling lucky?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0260NefAnyo]:
+  "Hmm… Luck…"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0270NefAnyo]:
+  "You never were much of a gambler, haven't you risked enough already?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0280ErgoGlast]:
+  "If you're referring to all the titles and assets you failed to steal after my resignation… I've never been richer. I've gained a soul and seen the truth of wealth. Anyo, the rising tides of prosperity ought to raise all who brave the ocean."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0290NefAnyo]:
+  "Careful, Glast, you might drown."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0300ErgoGlast]:
+  "We want our prisoners back, wager them before this gets expensive for you."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0310NefAnyo]:
+  "Fine, I'll throw in one of the prisoners. He's not the one I was looking for, anyway. But the girl, she stays with me."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0320NefAnyo]:
+  "It doesn't look like the Void was on your side today, Glast."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchOne0330NefAnyo]:
+  "Interesting performance Glast. But do your brokers have the credits to keep going?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix0980NefAnyo]:
+  "I've grown tired of this, brokers. Dish out your humiliation so I may retire to counting my riches!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix0990NefAnyo]:
+  "Brokers, how are they winning? By the Void, this is my Index, this shouldn't be possible."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1000ErgoGlast]:
+  "Don't you recognize the free market in action, Mr. Anyo. Allow my brokers to teach you how it's supposed to work."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1010NefAnyo]:
+  "Wait? What is this? Play fair you metal wretches."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1020NefAnyo]:
+  "Brokers, what's going on? Are you trying to get fired?!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1030NefAnyo]:
+  "Glast, what have you done?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1040ErgoGlast]:
+  "I guess the odds aren't in your favor today, Nef."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1050NefAnyo]:
+  "Well… well… look at that. Even a loser can win a coin toss now and then. Now, let's say we do a rematch. I'll throw in some of your old holdings in Eris."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1060ErgoGlast]:
+  "I think we'll cash in now, Mr. Anyo. Don't want to push our luck too far."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchSix1070NefAnyo]:
+  "What?! Now wait just a moment. I have an exciting wager for you! Ore discoveries in the Outer sectors! And to up the ante, a new squadron of Bursas, hot off the assembly line! What do you say? Are you in? Hello? Answer me?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchThree0410NefAnyo]:
+  "Hmm… I can feel the Void in these brokers. They're full of fight. Oh by all means, Glast, keep the credits rolling. Fortune is like the seasons, it always changes. Well, for you, that is."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchThree0420NefAnyo]:
+  "Alright, my loyal brokers. These fools wish to be parted with their credits, let's see if we can't give them what they deserve. By the Void, ring the bell!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchThree0430ErgoGlast]:
+  "What was that? This is highly irregular."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchThree0440ErgoGlast]:
+  "The odds of that occurring by accident are astronomical.  This was an act of sabotage."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchThree0450NefAnyo]:
+  "Glast, in light of their recent performance we have decided to relist your brokers. You may now compete openly on The Index. You're in the big leagues now, little man. May the Void keep you from ruin."
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchTwo0380NefAnyo]:
+  "Another loss, Tenno. Perhaps you need a better investment counselor than that maniacal socialist, Ergo Glast?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexMatchTwo0390NefAnyo]:
+  "Oh by the Void, you got me right in the pocketbook Tenno! Keep doing that, and I'm going to have to ask Frohd Bek for a loan."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0460ErgoGlast]:
+  "Success! We've been relisted. We can now place the kind of bets we need to attract the greed of Anyo. We need to entice him enough to wager the hostages and the Triuna! However, we must exercise caution, don't come on too strong, or he will back off. We need to, as they say, 'hustle' him."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0470ErgoGlast]:
+  "Fight hard and win but not by so much as to make the mark nervous. If Anyo loses by a wide margin, his gambler's instincts will make him walk away and we'll have failed the Myconians. Failed Neewa. Keep your victory within this margin."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0480ErgoGlast]:
+  "Slow down Tenno. Don't exceed the point spread."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0490ErgoGlast]:
+  "Watch those margins. I want you in the black but not by too much."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0500ErgoGlast]:
+  "You're ahead by too many points. Don't make Mr. Anyo skittish."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0510ErgoGlast]:
+  "In this case, there's such a thing as too much efficiency. Let them catch up."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0520ErgoGlast]:
+  "I know I said to make it look like they could win, but you're actually letting them win."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0530ErgoGlast]:
+  "There's a difference between making them think they can win and them winning. Don't let them win!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0540ErgoGlast]:
+  "You need to almost lose, not almost win. Aim to beat their score by a narrow margin. Neewa's counting on you."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0550ErgoGlast]:
+  "This is it, Anyo. If we win this one, we're fighting for the return of Neewa in the next round. That, or we will walk away with your credits!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0560NefAnyo]:
+  "You're in no position to dictate terms. You forget. This is my Index."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0570ErgoGlast]:
+  "Ah, did you hear that, Tenno? Mr. Anyo is afraid he'll lose."
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0580ErgoGlast]:
+  "Mr. Anyo! Are you afraid the Void is no longer on your side!?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0590NefAnyo]:
+  "Blasphemy! I am an instrument of the Void's will. From the Void flows fortune to those worthy!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0600ErgoGlast]:
+  "Then prove you are worthy, Anyo. Up your ante. Neewa and the Triuna!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0610NefAnyo]:
+  "Ringers! Nobody brings ringers to my Index. Get out of here, Glast!"
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0620NefAnyo]:
+  "The Void has spoken to me, Glast. I'll give you the chance you want but it will cost you dearly. I will wager these pitiful colonists and their totem, but you must put in, in kind. If I lose, they're yours. But should I win, Glast, your Corpus titles, holdings, land… all will be mine. So what do you say?"
+
+[/Lotus/Language/Subtitles/Quests/DIndexQuest0630ErgoGlast]:
+  "I'm in."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0750Lotus]:
+  "You are here to steal the control codes to Nef Anyo's traps. Only then can he be defeated in the Index."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0760ErgoGlast]:
+  "Tenno, I need not remind you there is little margin for error. The fraudster cannot know we have gained the upper hand."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0770Lotus]:
+  "You've reached a vault, find the console and retrieve the security code."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0780Lotus]:
+  "This is your last chance, don't let Nef destroy the data."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0790ErgoGlast]:
+  "Nef has destroyed the codes. We have no contingency for this outcome."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0800Lotus]:
+  "This isn't a code, it's something else, a recording from Neewa. Tenno, continue with your mission while I decrypt this message."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0810Lotus]:
+  "This is it. We have the code."
+
+[/Lotus/Language/Subtitles/Quests/DIndexSpyMission0820ErgoGlast]:
+  "You have executed the plan beautifully. Get ready for your next battle on the Index, the outcome promises to be much different."
+
 [/Lotus/Language/Subtitles/Quests/DIntro00010Baro]:
   "I have a rare opportunity for you. It seems there may be a tomb hidden on that forsaken place. Tombs mean treasure, and yet sadly, my usual relic hunters are superstitious idiots who refuse to disturb this so-called sacred place. You, Tenno, however, are more pragmatic, especially when it comes to Ducats… am I right?"
 
@@ -71304,6 +73067,51 @@
 
 [/Lotus/Language/Subtitles/Quests/DLQSystems190Ordis]:
   "You have to forge that blueprint as soon as possible. I must know what comes next. "
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0060ErgoGlast]:
+  "In his gluttony, Mr. Anyo took more than Mycona's most promising youth, he left the colony defenseless. Three gateways lead into the colony. They all need to be shut."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0070ErgoGlast]:
+  "For generations, the Myconians have kept these creatures at bay using something they call the Triuna. A powerful force and an ancestral secret, it pacifies Infested, making life amongst the scourge somehow possible. Without it, their way of life is threatened."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0080ErgoGlast]:
+  "See those Infested tumors? Growing with malignancy as greed did among the Corpus when I was there. The Myconians can't close the gates until these growths are destroyed."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0090ErgoGlast]:
+  "The colonists are going to force the security gate closed. Don't let the Infested get to them. Don't let greed win."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0100ErgoGlast]:
+  "There's only one colonist left. If they're killed… Their way of life… A whole culture… Tenno, keep them safe!"
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0110ErgoGlast]:
+  "One door has been closed, two remain. Carry on."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0120ErgoGlast]:
+  "When that gluttonous freak, Mr. Anyo, attacked this colony he went straight for the Triuna. He left these people defenseless and for what, profit? Typical Corpus mindset."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0130ErgoGlast]:
+  "Here's the second security gate. Destroy the Infestation, so the colonists can force it closed."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0140ErgoGlast]:
+  "That's it. Now make sure the Myconians can finish the job and close the gate."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0150ErgoGlast]:
+  "Progress! Only one more to go."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0160ErgoGlast]:
+  "These people are survivors. Over generations, they've adapted, learning to live among the Infestation. To earn a living, as all should have the right to do, never asking for charity. Like the Perrin Sequence, they were Corpus once, but they too sought future free from the corruption of boundless greed. If only Mr. Anyo shared this vision."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0170ErgoGlast]:
+  "You know what to do, take out the growths."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0180ErgoGlast]:
+  "Here come the Colonists. Make sure they can finish their job."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0190ErgoGlast]:
+  "You did it. The Myconians are safe… but only for the moment. Get back to your ship, and I'll explain."
+
+[/Lotus/Language/Subtitles/Quests/DMisSecureColony0201ErgoGlast]:
+  "The colony is sealed, but it's still crawling with Infested. Clear them out so the Myconians can have their home back."
 
 [/Lotus/Language/Subtitles/Quests/DMissionA005Ordis]:
   "Operator, what in stars could this possibly mean?"
@@ -71541,6 +73349,18 @@
 
 [/Lotus/Language/Subtitles/Quests/DOrbiterReturn0070Lotus]:
   "One more time."
+
+[/Lotus/Language/Subtitles/Quests/DPerrinRelay0010ErgoGlast]:
+  "Time is credit, Tenno, so we'll forgo the usual formalities. We have a dire problem, you see, concerning the Mycona people. Have you heard of them? Hmmm… I see… Well, they are quite resourceful, unusual really. The Mycona earn their living by harvesting the biological products of the Infested! A dangerous trade and we Perrin have always given them fair value for their goods… but I've received disturbing news. That cleric of greed, Nef Anyo, has raided their colony, making off with more than just the resources they depend on. It seems he took—well, here, look at this..."
+
+[/Lotus/Language/Subtitles/Quests/DPerrinRelay0020Neewa]:
+  "The dark-eyed man smashed our colony gates and kidnapped us. Locked us in here. But I don't care. It's mom and dad I'm worried about. Without the gates, the Mumblers will be coming. They'll get sick, they'll start to mumble too. That can't happen! Papa says I'm blessed, so maybe I should pray? I'll pray for the Tenno to come. I'll pray for the Tenno to save my family."
+
+[/Lotus/Language/Subtitles/Quests/DPerrinRelay0030ErgoGlast]:
+  "That's Neewa. She was taken along with several more Myconian children. Those who remain are under siege from the Infestation! Before we can rescue Neewa and the other captives, we must first restore the Myconian's defenses. Our financial strength is useless against the mindless horde, we need Tenno muscle. Will you help Neewa's people?"
+
+[/Lotus/Language/Subtitles/Quests/DPerrinRelay0040ErgoGlast]:
+  "Such generosity! I knew the Myconians could rely on you, Tenno."
 
 [/Lotus/Language/Subtitles/Quests/DPostQuest00040Baro]:
   "Inaros, it's an honor to serve you."
@@ -72210,6 +74030,126 @@
 
 [/Lotus/Language/Subtitles/Quests/DSentientSpawn0060Lotus]:
   "The Sentient is on to you, look out for troopers."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostColony0200ErgoGlast]:
+  "You fought with a generous spirit Tenno but now we must work to free the Myconians and return their Triuna. The Sequence offered to pay Anyo an exorbitant ransom, but he laughed it off. He doesn't need the money. So we have no choice but to exploit Anyo's weakness. His love of gambling. Our only chance of freeing these people is to challenge Anyo and his brokers in The Index."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostColony0210Lotus]:
+  "Slow down Glast. My Tenno have already offered immense help and now you want them to enter The Index? This is dangerous work."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostColony0220ErgoGlast]:
+  "Fair, but the Myconians aren't asking for charity. Their ancestral understanding of the Infestation comes from an Old War relic. A relic that I know, will be of extreme interest to you. Return their Triuna, and the relic will be yours. Fair compensation for the risk."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostColony0230ErgoGlast]:
+  "To beat Mr. Anyo at his own game, we must first show him that we are worthy competitors. Only then will he let us enter the upper echelons of this foul Index."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostFive0740Lotus]:
+  "Ergo's suspicions are correct, Nef cheated. I have identified the systems responsible for these cheats. I need you to break into Anyo Corp's servers and steal the control codes for his traps."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostFour0640Neewa]:
+  "Papa said I was born special. \"Neewa...\" he said, \"you're not just our child, you are the Triuna, our protector!\" I guess no one asks to be the Triuna. It was just… my turn… but without me, the Mumblers will take all of our families. They'll be mushed together like smudged ink. Lost forever. I have to get out of here. I have to get home."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostFour0650Lotus]:
+  "Neewa is the Triuna!? That's why Nef's so interested in her. Suddenly this all makes sense. The Myconians had concealed her abilities to protect her. But, why give a child such a burden?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostFour0660NefAnyo]:
+  "My dear Glast, why are you so eager to tempt ruin for a little girl? You'll soon see how the Void favors my fortune above yours."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostFour0670ErgoGlast]:
+  "Wealth has no purpose until turned against suffering. I'd wager more if I had it."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostMatchTwo0400Neewa]:
+  "The dark-eyed man came today. He tapped the bars and said soon we'd be put to work. Fine! I screamed at him, \"only if you tell us what's going on. Are my parents safe?\" He just laughed at me and said something about the Void. I wonder what the Mumblers would do to his face?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostOne0340Lotus]:
+  "Glast, why is Nef so interested in Neewa, what are you not telling us?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostOne0350ErgoGlast]:
+  "I can only assume Anyo is trying to bait us back to the Index. Thankfully his gambling is a compulsion. We must win her back, for the Myconians."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostOne0360Lotus]:
+  "Hmmm… I see."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostOne0370NefAnyo]:
+  "I'm willing to bet one or two of these useless children if it means a chance to bankrupt your bleeding heart Perrin Sequence. All those executives will surely come crawling back to me. Fodder for the Index!"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostRelay0050Lotus]:
+  "Tenno, I trust Ergo Glast, but a colony that survives amid the Infestation? It seems impossible."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1080ErgoGlast]:
+  "Lotus, you may now return the child to her people."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1090Lotus]:
+  "She could be cured. Why return her? So she lives a shortened life, surrounded by monsters?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1100ErgoGlast]:
+  "Surrounded by family, her people, who honor her. Are you really going to impose your own values on these people you don't understand?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1110Lotus]:
+  "She only thinks this is what she wants. What you call tradition others call indoctrination. If she comes to the relay and is cured, she'll be free to return to her people if that's her choice."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1120ErgoGlast]:
+  "And the Myconians? Without the Passing, their way of life will end forever. Their skills, their traditions, wiped out by a powerful outsider."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1130Lotus]:
+  "They'd have to adapt, yes. We'd do our best to protect them, as we do for all that suffer."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1140Lotus]:
+  "Tenno, you've lived through similar obligations. What would you choose for Neewa?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1150Neewa]:
+  "This is a strange place, so clean. Everyone is nice to me, so I guess I'll get used to it. I'm still weak from the treatment but I feel stronger every day. I don't know what I'm going to do now. I guess anything I want. I miss my Papa and my family, but I sure don't miss the mumblers. Thank you, Tenno."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1160Neewa]:
+  "I know our ways might seem strange to outsiders but they're our ways. I would never choose to be anything but Myconian. To be their Triuna for as long as I can. Thank you, Tenno, for keeping my family safe when I couldn't."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSix1170Neewa]:
+  "I've returned to my people… but… I've decided I will be the last Triuna. I want a future where all of the children can be happy. A new tradition. Papa is so proud of me. \"The last Triuna and greatest of all. The one that changed Myconians forever.\""
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0830Neewa]:
+  "How much longer can I go on for? The Passing will come in a few years with no one to take the Triuna from me. I'll just be gone, surrounded by rusting robots, and the Triuna will be lost forever."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0840Lotus]:
+  "Ergo, what is this, \"Passing\"? What do you know about the Triuna?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0850ErgoGlast]:
+  "Triuna is the Myconian's chosen one. It passes from one to the next in a simple ceremony. A pin prick on the finger is all it is."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0860Lotus]:
+  "A disease?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0870ErgoGlast]:
+  "Yes, likely. The Myconians may be carriers with ancestral resistance to the Infestation. Or they are merely keepers of the flame, perpetuating a weaker strain through this ritual."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0880Lotus]:
+  "The Infested fear hybrids."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0890ErgoGlast]:
+  "They do. And so the Myconians harvest them without violence. That is their way of life. Eventually, the Triuna succumbs to the burden and so they must pass it on. And on. Lighting a new torch before the other fades away."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0900Lotus]:
+  "Fades? You mean dies. We could cure her before that happened!"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0910ErgoGlast]:
+  "Of what? An extraordinary gift? No Triuna would ever want to lose that. They live in honor, to serve their people, for the greater good."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0920Lotus]:
+  "But they're only children."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0930NefAnyo]:
+  "It's over Glast. I have everything I want. Neewa is mine, and the Sequence's President is in ruin! You have nothing to wager that interests me."
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0940ErgoGlast]:
+  "Hah, the Myconians do. An Old War relic will be our wager. In a way, a product of the Void, something you have more than Passing interesting for, am I right?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0950NefAnyo]:
+  "Don't kid yourself… I… What? It's disgusting. It's… beautiful! Those colonists would wager this?! Don't those idiots realize how much this is worth?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0960ErgoGlast]:
+  "All or nothing, held in escrow. Are you in, Nef?"
+
+[/Lotus/Language/Subtitles/Quests/DShipPostSpyMission0970NefAnyo]:
+  "Hmmm… yes. By the Void, I'm in!"
 
 [/Lotus/Language/Subtitles/Quests/DSQCapObj0040Lotus]:
   "I have tracked Maroo to this Corpus outpost. Bring her to me for questioning. Be as persuasive as necessary, she may not want to come with us but it's in her best interest."
@@ -76866,6 +78806,57 @@
 [/Lotus/Language/Suits/InarosPassiveAbility]:
   "While bleeding-out, Inaros becomes entombed in a protective Sarcophagus. He can revive himself by draining the life-force from nearby enemies and allies. "
 
+[/Lotus/Language/Suits/InfestAbilityAugment1Desc]:
+  "Virulence Augment - Reduce armor on hit by |PERCENT|% for each Mutation stack for |DURATION| seconds"
+
+[/Lotus/Language/Suits/InfestAbilityAugment1Name]:
+  "Armor Destroying Mutation"
+
+[/Lotus/Language/Suits/InfestAbilityAugment2Desc]:
+  "Virulence Augment - |PERCENT|% damage ignores shields."
+
+[/Lotus/Language/Suits/InfestAbilityAugment2Name]:
+  "Shield Bypass Mutation"
+
+[/Lotus/Language/Suits/InfestAbilityAugment3Desc]:
+  "Virulence Augment - Heal for |AMOUNT| on hit for each Mutation stack."
+
+[/Lotus/Language/Suits/InfestAbilityAugment3Name]:
+  "Restorative Mutation"
+
+[/Lotus/Language/Suits/InfestAbilityDesc]:
+  "Gluttonous maggots swarm nearby enemies, feasting until they burst with Infestation. The maggots benefit from Mutation and each enemy consumed adds to the Mutation stack."
+
+[/Lotus/Language/Suits/InfestAbilityName]:
+  "Ravenous"
+
+[/Lotus/Language/Suits/InfestationAdaptation]:
+  "Mutation"
+
+[/Lotus/Language/Suits/InfestationAltHelmetDesc]:
+  "A uniquely-styled alternate helmet for Nidus."
+
+[/Lotus/Language/Suits/InfestationAltHelmetName]:
+  "NIDUS PRION HELMET"
+
+[/Lotus/Language/Suits/InfestationDesc]:
+  "Command the Infestation to mutate and grow ever more destructive."
+
+[/Lotus/Language/Suits/InfestationHelmetDesc]:
+  "The standard issue helmet for the Nidus Warframe."
+
+[/Lotus/Language/Suits/InfestationHelmetName]:
+  "NIDUS HELMET"
+
+[/Lotus/Language/Suits/InfestationName]:
+  "NIDUS"
+
+[/Lotus/Language/Suits/InfestPassiveAbility]:
+  "If Nidus is killed with at least 10 stacks of Mutation, those 10 stacks are consumed; this grants 5 seconds of invulnerability and restores health to 50%."
+
+[/Lotus/Language/Suits/InfestPassiveAbilityName]:
+  "UNDYING"
+
 [/Lotus/Language/Suits/InvisibilityAbilityAugment1Desc]:
   "Invisibility Augment - Weapon noise is reduced by |NOISE_REDUC|% while invisible."
 
@@ -77601,6 +79592,12 @@
 [/Lotus/Language/Suits/RiftWalkAbilityName]:
   "Rift Walk"
 
+[/Lotus/Language/Suits/RuptureAbilityDesc]:
+  "Rupture the ground with a damaging fungal growth that steals energy from each enemy it strikes.  For every five enemies hit, the Infestation mutates, multiplying its destructive force."
+
+[/Lotus/Language/Suits/RuptureAbilityName]:
+  "Virulence"
+
 [/Lotus/Language/Suits/RussianRouletteAbilityAugment1Desc]:
   "Shooting Gallery Augment - Does a burst before switching between players, blinding enemies within |RANGE| meters for |DURATION| seconds."
 
@@ -77956,7 +79953,7 @@
   "Boosting this ability increases its duration."
 
 [/Lotus/Language/Suits/SpeedAbilityDesc]:
-  "Gain a brief boost of movement speed and place a Hasten Coil which does the same for allies."
+  "Gain a brief boost of movement speed which affects all allies in range."
 
 [/Lotus/Language/Suits/SpeedAbilityName]:
   "Speed"
@@ -77994,6 +79991,12 @@
 [/Lotus/Language/Suits/SwordOfDoomAbilityName]:
   "Exalted Blade"
 
+[/Lotus/Language/Suits/SymbioticLinkAbilityDesc]:
+  "Bind to a target with a parasitic link. For allies, both the host and Nidus deal increased damage. Linked enemies take the damage inflicted on Nidus."
+
+[/Lotus/Language/Suits/SymbioticLinkAbilityName]:
+  "Parasitic Link"
+
 [/Lotus/Language/Suits/TearInSpaceAbilityAugment1Desc]:
   "Cataclysm Augment - Duration increased by |DURATION|s for each enemy killed."
 
@@ -78023,6 +80026,12 @@
 
 [/Lotus/Language/Suits/TeleportToAbilityPvPDesc]:
   "Ash teleports towards the target, bringing him into melee range."
+
+[/Lotus/Language/Suits/TendrilsAbilityDesc]:
+  "Spawn an Infested pod that erupts with tendrils, latches onto nearby enemies and pulls them in."
+
+[/Lotus/Language/Suits/TendrilsAbilityName]:
+  "Larva"
 
 [/Lotus/Language/Suits/TerrorTotemAbilityAugment1Desc]:
   "Terrify Augment - Affected enemies have |SLOW_PCT|% reduced movement speed."
@@ -79560,9 +81569,6 @@
 [/Lotus/Language/Upgrades/AvatarSuccessChanceModDesc]:
   "|val|% Success Chance"
 
-[/Lotus/Language/Upgrades/BlankPower]:
-  ""
-
 [/Lotus/Language/Upgrades/BleedoutModifierDesc]:
   "|val|% Bleedout Reduction"
 
@@ -79748,9 +81754,6 @@
 
 [/Lotus/Language/Upgrades/HeightenedReflexesCastingSpeed]:
   "Quicken casting speed by |val|%"
-
-[/Lotus/Language/Upgrades/HeightenedReflexesPowerMax]:
-  ""
 
 [/Lotus/Language/Upgrades/HindDamageonFifthHit]:
   "Final Tap"
@@ -80152,7 +82155,7 @@
   "|val|% Damage"
 
 [/Lotus/Language/Upgrades/WeaponDamageIfVictimProcActiveModDesc]:
-  "|val| Melee Damage for each status type affecting the target"
+  "|val|% Melee Damage for each status type affecting the target"
 
 [/Lotus/Language/Upgrades/WeaponDamageModDesc]:
   "|val|% Damage"
@@ -80376,6 +82379,12 @@
 [/Lotus/Language/Weapons/GrnCannonName]:
   "ZARR"
 
+[/Lotus/Language/Weapons/GrnFlameSpearDesc]:
+  "Launch super-heated slugs at individual foes, or hurl the entire weapon and ignite groups of enemies in a flash inferno."
+
+[/Lotus/Language/Weapons/GrnFlameSpearName]:
+  "JAVLOK"
+
 [/Lotus/Language/Weapons/GrnHalberdDesc]:
   "Slice through mobs of unruly enemies with this fierce halberd; the signature weapon of the Kuva Guardians. "
 
@@ -80400,17 +82409,41 @@
 [/Lotus/Language/Weapons/IndexEventWeaponRewardName]:
   "[PH] VANDAL WEAPON"
 
+[/Lotus/Language/Weapons/IndexWeaponRewardDesc]:
+  "[PH] Description"
+
+[/Lotus/Language/Weapons/IndexWeaponRewardName]:
+  "[PH] VANDAL WEAPON"
+
 [/Lotus/Language/Weapons/InfEmbolistScytheDesc]:
   "Charge attacks from this scythe unleash a wave of acid that mutilates enemies and leaves a trail of corrosive sludge."
 
 [/Lotus/Language/Weapons/InfEmbolistScytheName]:
   "CAUSTACYST"
 
+[/Lotus/Language/Weapons/InfestedBurstRifleDesc]:
+  "A bloodsucker. This symbiotic burst-rifle leeches health to forge its ammo and then restores health with each headshot."
+
+[/Lotus/Language/Weapons/InfestedBurstRifleName]:
+  "HEMA"
+
 [/Lotus/Language/Weapons/InfestedDualAxeDesc]:
   "The fast and brutal Dual Ichor axes will quickly tear through enemies with a high probability of inflicting critical damage."
 
 [/Lotus/Language/Weapons/InfestedDualAxeName]:
   "DUAL ICHOR"
+
+[/Lotus/Language/Weapons/InfestedKogakeBuff]:
+  "INVIGORATED"
+
+[/Lotus/Language/Weapons/InfestedKogakeDesc]:
+  "Rip into the enemy with fists of razor sharp cartilage. Steals health with each critical hit."
+
+[/Lotus/Language/Weapons/InfestedKogakeName]:
+  "HIRUDO"
+
+[/Lotus/Language/Weapons/InfVomitGunBuff]:
+  "FRENZY"
 
 [/Lotus/Language/Weapons/TeshinGlaiveDesc]:
   "Turn foes into puppets with Teshin’s versatile throwing disc."

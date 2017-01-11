@@ -677,10 +677,10 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [CorpusChampionTeamADropTable]
- - Nako Xol (CCTeamARifleAvatar)
- - Pelna Cade (CCTeamASkateAvatar)
- - Ved Xol (CCTeamASkateBAvatar)
- - Lockjaw & Sol (CCTeamAZanukaAvatar)
+ - Armis Ulta (CCTeamDBusterAAvatar)
+ - Ved Xol (CorpusChampionBusterBaseAvatar)
+ - Dru Pesfor (CCTeamDBusterBAvatar)
+ - Rana Del (CCTeamDBusterCAvatar)
 
 DROP_MOD (Drop Chance: 2%)
 	Pain Threshold, UNCOMMON, 45.83%
@@ -689,10 +689,6 @@ DROP_MOD (Drop Chance: 2%)
 
 
 [CorpusChampionTeamBDropTable]
- - Jad Teran (CCTeamBDisruptorAvatar)
- - Azoth (CCTeamBHyenaAvatar)
- - Raptor RX (CCTeamBOspreyAvatar)
- - Auditor (CCTeamBRiotMoaAvatar)
 
 DROP_MOD (Drop Chance: 2%)
 	Medi-Pet Kit, UNCOMMON, 45.83%
@@ -701,10 +697,6 @@ DROP_MOD (Drop Chance: 2%)
 
 
 [CorpusChampionTeamCDropTable]
- - Jen Dro (CCTeamCDeceptionAvatar)
- - M-W.A.M. (CCTeamCMoaAvatar)
- - Derim Zahn (CCTeamCSimplifiedHackerAvatar)
- - Tia Mayn (CCTeamCStealthAvatar)
 
 DROP_MOD (Drop Chance: 2%)
 	Kinetic Ricochet, UNCOMMON, 45.83%
@@ -934,6 +926,9 @@ DROP_POWERUP (Drop Chance: 25%)
  - SLO SCRAMBUS (ModularSpacemanAvatarSkatingTesla)
  - SLO COMBA (ModularSpacemanAvatarWalkingTesla)
  - DATALYST (CorpusArtificerAvatar)
+ - Pelna Cade (CCTeamASkateAvatar)
+ - Ved Xol (CCTeamASkateBAvatar)
+ - Jad Teran (CCTeamBDisruptorAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -1790,7 +1785,17 @@ DROP_POWERUP (Drop Chance: 25%)
  - Executioner Harkonar (GrineerChampionSniperAvatar)
  - Executioner Harkonar (GrineerChampionSniperDecoyAvatar)
  - Executioner Gorth (GrineerChampionTankAvatar)
+ - Nako Xol (CCTeamARifleAvatar)
+ - Lockjaw & Sol (CCTeamAZanukaAvatar)
+ - Azoth (CCTeamBHyenaAvatar)
+ - Raptor RX (CCTeamBOspreyAvatar)
+ - Auditor (CCTeamBRiotMoaAvatar)
+ - Jen Dro (CCTeamCDeceptionAvatar)
+ - M-W.A.M. (CCTeamCMoaAvatar)
+ - Derim Zahn (CCTeamCSimplifiedHackerAvatar)
+ - Tia Mayn (CCTeamCStealthAvatar)
  - KNAVE SPECTER (KnaveLokiDecoyAvatar)
+ - 002-ER (CCTeamDOspreyAvatar)
 
 DROP_MOD (Drop Chance: 20%)
 	15 ENDO, COMMON, 75.88%
@@ -2845,10 +2850,10 @@ DROP_SIGIL (Drop Chance: 100%)
 
 
 [HyenaAgentDropTable]
+ - Hyena PB (HyenaGunAvatar)
  - Hyena TH (HyenaElecAvatar)
  - Hyena NG (HyenaFireAvatar)
  - Hyena LN2 (HyenaIceAvatar)
- - Hyena PB (HyenaGunAvatar)
  - HYENA PACK (MiniRobotAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
@@ -3362,6 +3367,12 @@ DROP_POWERUP (Drop Chance: 0%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
+
+
+[JohnProdmanDropTable]
+
+DROP_MISC_ITEM (Drop Chance: 100%, Exclusive)
+	/Lotus/Types/Items/ShipDecos/IndexAutograph, COMMON, 100%
 
 
 [KavatFeralDropTable]
@@ -4124,7 +4135,6 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [ProsecutorDeltaDropTable]
- - GUARDSMAN PROSECUTOR (DeltaProsecutorAvatarLeader)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
@@ -4161,8 +4171,8 @@ DROP_AMMO (Drop Chance: 70%)
 	10 SHOTGUN AMMO, COMMON, 25%, Bias 0.455
 	10 SNIPER AMMO, COMMON, 25%, Bias 0.555
 
-DROP_MISC_ITEM (Drop Chance: 4%)
-	Uncommon Resource, COMMON, 100%
+DROP_MISC_ITEM (Drop Chance: 100%)
+	JAVLOK CAPACITOR, RARE, 100%
 
 DROP_MOD (Drop Chance: 3%)
 	Trick Mag, COMMON, 25.29%
@@ -4179,6 +4189,12 @@ DROP_POWERUP (Drop Chance: 25%)
 	10-50 CREDITS, COMMON, 37.94%, Bias 0.25
 	75-150 CREDITS, UNCOMMON, 22.11%
 	150-300 CREDITS, RARE, 2.01%
+
+
+[PurifyAntidoteDropTable]
+
+DROP_POWERUP (Drop Chance: 100%)
+	Antiserum, COMMON, 100%, Bias 1
 
 
 [RaptorAgentDropTable]
@@ -5090,12 +5106,12 @@ DROP_POWERUP (Drop Chance: 25%)
  - VOLT SPECTER (CorpusArenaAllyBaseAvatarA)
  - MAG SPECTER (CorpusArenaAllyBaseAvatarB)
  - FROST SPECTER (CorpusArenaAllyBaseAvatarC)
- - EMBER SPECTER (ArenaSpecterEmberAvatar)
- - FROST SPECTER (ArenaSpecterFrostAvatar)
- - IVARA SPECTER (ArenaSpecterIvaraAvatar)
- - MAG SPECTER (ArenaSpecterMagAvatar)
- - VOLT SPECTER (ArenaSpecterVoltAvatar)
- - WUKONG SPECTER (ArenaSpecterWukongAvatar)
+ - Frost Specter (ArenaSpecterFrostAvatar)
+ - Ember Specter (ArenaSpecterEmberAvatar)
+ - Ivara Specter (ArenaSpecterIvaraAvatar)
+ - Mag Specter (ArenaSpecterMagAvatar)
+ - Volt Specter (ArenaSpecterVoltAvatar)
+ - Wukong Specter (ArenaSpecterWukongAvatar)
  - LOKI SPECTER (TennoReplicantLokiAvatar)
  - OBERON SPECTER (TennoReplicantPaladinAvatar)
  - SARYN SPECTER (TennoReplicantSarynAvatar)
@@ -5106,6 +5122,7 @@ DROP_POWERUP (Drop Chance: 25%)
  - MESA SPECTER (TennoReplicantGunslingerAvatarRelayBoss)
  - MAG SPECTER (TennoReplicantMagAvatar)
  - NOVA SPECTER (TennoReplicantNovaAvatar)
+ - HYDROID SPECTER (TennoReplicantPirateAvatar)
  - RHINO SPECTER (TennoReplicantRhinoAvatar)
  - TRINITY SPECTER (TennoReplicantTrinityAvatar)
  - VOLT SPECTER (TennoReplicantVoltAvatar)
@@ -5123,6 +5140,10 @@ DROP_POWERUP (Drop Chance: 25%)
  - Red Veil Operative (RedVeilAllyAvatarB)
  - Steel Meridian Operative (SteelMeridianAllyAvatarA)
  - Steel Meridian Operative (SteelMeridianAllyAvatarB)
+ - MYCONIAN HUNTER (PerrinColonistAvatarA)
+ - MYCONIAN HUNTER (PerrinColonistAvatarB)
+ - MYCONIAN HUNTER (PerrinColonistAvatarC)
+ - MYCONIAN HUNTER (PerrinColonistAvatarD)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
