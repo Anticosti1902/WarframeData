@@ -5,11 +5,6 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VoidKeysInfo", "VoidKeysInfo\VoidKeysInfo.csproj", "{E2F920BA-6D58-46FA-A45E-DE6A003D304C}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{25B54EB8-3F73-4D68-8A61-4978B99F89A4}"
-	ProjectSection(SolutionItems) = preProject
-		..\PrimePartsDucats.txt = ..\PrimePartsDucats.txt
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

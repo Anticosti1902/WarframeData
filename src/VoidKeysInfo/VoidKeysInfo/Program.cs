@@ -17,6 +17,8 @@ namespace VoidKeysInfo
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainPanel());
+            dynamic jSon = Json.LoadJson();
+            Json.outputKeyInfo("axi n1", jSon);
         }
     }
 }

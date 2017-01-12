@@ -29,7 +29,6 @@
         private void InitializeComponent()
         {
             this.UserChoiceBox = new System.Windows.Forms.ComboBox();
-            this.richTextBox1 = new System.Windows.Forms.RichTextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
             this.label2 = new System.Windows.Forms.Label();
@@ -39,6 +38,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
+            this.listView2 = new System.Windows.Forms.ListView();
             this.SuspendLayout();
             // 
             // UserChoiceBox
@@ -49,14 +49,6 @@
             this.UserChoiceBox.Size = new System.Drawing.Size(360, 21);
             this.UserChoiceBox.TabIndex = 0;
             this.UserChoiceBox.Text = "Which prime part sells for the most ducats for given relics";
-            // 
-            // richTextBox1
-            // 
-            this.richTextBox1.Location = new System.Drawing.Point(598, 49);
-            this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(269, 549);
-            this.richTextBox1.TabIndex = 1;
-            this.richTextBox1.Text = "";
             // 
             // label1
             // 
@@ -141,11 +133,20 @@
             this.label4.TabIndex = 11;
             this.label4.Text = "Enter a relic name";
             // 
+            // listView2
+            // 
+            this.listView2.Location = new System.Drawing.Point(598, 49);
+            this.listView2.Name = "listView2";
+            this.listView2.Size = new System.Drawing.Size(269, 549);
+            this.listView2.TabIndex = 12;
+            this.listView2.UseCompatibleStateImageBehavior = false;
+            // 
             // MainPanel
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(879, 610);
+            this.Controls.Add(this.listView2);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.button1);
@@ -155,7 +156,6 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.richTextBox1);
             this.Controls.Add(this.UserChoiceBox);
             this.Name = "MainPanel";
             this.Text = "Warframe Relic Helper";
@@ -167,7 +167,6 @@
         #endregion
 
         private System.Windows.Forms.ComboBox UserChoiceBox;
-        private System.Windows.Forms.RichTextBox richTextBox1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.Label label2;
@@ -177,6 +176,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.ListView listView2;
     }
 }
 
