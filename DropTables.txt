@@ -1268,8 +1268,8 @@ DROP_POWERUP (Drop Chance: 25%)
 
 
 [CorpusSniperSpacemanAgentDropTable]
- - NULLIFIER CREWMAN (NullifySpacemanAvatar)
  - SNIPER CREWMAN (SniperSpacemanAvatar)
+ - NULLIFIER CREWMAN (NullifySpacemanAvatar)
 
 DROP_AMMO (Drop Chance: 70%)
 	20 RIFLE AMMO, COMMON, 25%
